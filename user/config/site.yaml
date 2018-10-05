@@ -1,0 +1,19 @@
+title: Grav
+default_lang: 'United States'
+author:
+  name: Jerry
+  email: g.gravitas@gmail.com
+taxonomies:
+  - category
+  - tag
+  - month
+  - author
+metadata:
+  description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: ''

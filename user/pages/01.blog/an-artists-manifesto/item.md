@@ -1,7 +1,7 @@
 ---
 title: 'AN ARTIST''S MANIFESTO'
 media_order: portrait_manifesto.jpg
-date: '16:07 07-08-2018'
+published: false
 taxonomy:
     category:
         - blog

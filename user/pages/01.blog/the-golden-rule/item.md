@@ -1,7 +1,7 @@
 ---
 title: 'The Golden Rule'
 media_order: 256px-Bloch-SermonOnTheMount.jpg
-date: '16:28 07-08-2018'
+published: false
 taxonomy:
     category:
         - blog

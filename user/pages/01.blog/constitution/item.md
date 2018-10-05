@@ -1,7 +1,7 @@
 ---
 title: 'THE DECLARATION'
 media_order: United_States_Declaration_of_Independence.jpg
-date: '16:17 07-08-2018'
+published: false
 taxonomy:
     category:
         - blog

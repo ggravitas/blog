@@ -48,6 +48,15 @@ The first principle is a respect for humanity. That is the most you should ever 
 
 Let's face it, there are deplorable people in the world, and, whether through ignorance or malice, they are bent on destroying what is fair and kind. Fair and kind people, on the other hand, try to be polite and respectful; we try to reason; we present facts and arguments. Today, none of that matters. You will not flip a Trump supporter with reason or decency. Some people are not deserving of our time or respect. We forget that too often. We point out because this blog is mostly about outrageous, deplorable things we are doing to each other in this country. So, undoubtedly, there wiil be posts with some pretty harsh words about the human zoo we live in, and when you criticize the harshness, you will be sent a link to this page.
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1&appId=437950656695336&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-share-button" data-href="http://outragefatigue.blog/first-principles" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Foutragefatigue.blog%2Fconstitution&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
 
 >#### _Don’t explain your philosophy. Embody it_. --Epictetus

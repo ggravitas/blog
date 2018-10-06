@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/jerrybrahm/repos/blog/user/themes/quark/blueprints.yaml',
-    'modified' => 1538776348,
+    'modified' => 1538840356,
     'data' => [
         'name' => 'Quark',
         'version' => '1.2.1',

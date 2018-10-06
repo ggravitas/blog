@@ -1,3 +1,12 @@
+# v1.2.2
+## 10/06/2018
+
+1. [](#new)
+    * Added blueprints for section-type pages
+    * Added option to hide page titles for section-type pages
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
 # v1.2.1
 ## 10/05/2018
 

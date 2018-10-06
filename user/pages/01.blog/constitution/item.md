@@ -42,4 +42,4 @@ Jefferson wrote that the authority of the Declaration rested on the “harmonizi
   js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1&appId=437950656695336&autoLogAppEvents=1';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-share-button" data-href="http://outragefatigue.blog/constitution" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Foutragefatigue.blog%2Fconstitution&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+<div class="fb-share-button" data-href="http://outragefatigue.blog/blog/constitution" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Foutragefatigue.blog%2Fconstitution&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>

@@ -2,10 +2,10 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/jerrybrahm/repos/blog/user/themes/quark-open-publishing/blueprints.yaml',
-    'modified' => 1538776351,
+    'modified' => 1538840358,
     'data' => [
         'name' => 'Quark Open Publishing',
-        'version' => '1.2.1',
+        'version' => '1.2.2',
         'description' => 'A custom version of the Quark theme for open publishing. Includes Git Sync and \'chromeless\' content embedding.',
         'icon' => 'unlock',
         'author' => [

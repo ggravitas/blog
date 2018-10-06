@@ -1,6 +1,6 @@
 ---
 title: 'Supreme Court Fatigue'
-media_order: 'kavanough.jpg,usa-flag.jpg'
+media_order: kavanough.jpg
 published: true
 date: '23:13 28-09-2018'
 taxonomy:
@@ -16,7 +16,6 @@ process:
     markdown: true
     twig: true
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-tiny parallax'
-hero_image: usa-flag.jpg
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true

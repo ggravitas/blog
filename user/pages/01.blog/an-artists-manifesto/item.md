@@ -8,10 +8,15 @@ taxonomy:
     tag:
         - manifesto
 hide_git_sync_repo_link: false
+external_links:
+    process: true
+jscomments:
+    active: true
+    provider: facebook
 process:
     markdown: true
     twig: true
-hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-tiny parallax'
 hero_image: unsplash-text.jpg
 blog_url: /blog
 show_sidebar: true

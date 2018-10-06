@@ -1,4 +1,4 @@
-title: Grav
+title: Outragefatigue.blog
 default_lang: 'United States'
 author:
   name: Jerry
@@ -9,7 +9,7 @@ taxonomies:
   - month
   - author
 metadata:
-  description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+  description: 'Sick and tired or being sick and tired'
 summary:
   enabled: true
   format: short

@@ -1,3 +1,26 @@
+# v1.2.1
+## 10/05/2018
+
+1. [](#new)
+    * Added new 'section' and 'subsection' page templates
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v1.2.0
+## 09/24/2018
+
+1. [](#improved)
+    * Added multi-language compatibility for option to hide Homepage link in menubar
+
+# v1.1.9
+## 09/23/2018
+
+1. [](#new)
+    * Added the experimental alias 'embedded' for 'chromeless' as a URL parameter (i.e. https://demo.hibbittsdesign.org/grav-open-publishing-quark/embedded:true is the same as https://demo.hibbittsdesign.org/grav-open-publishing-quark/chromeless:true)
+1. [](#improved)
+    * Revised UI text for the site-wide 'chromeless' setting to better relate to the new\ experimental 'embedded' alias
+    * Improved checks for the site-wide 'chromeless' setting
+
 # v1.1.8
 ## 09/08/2018
 

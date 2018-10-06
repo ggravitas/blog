@@ -7,8 +7,14 @@ taxonomy:
         - blog
     tag:
         - manifesto
-hide_git_sync_repo_link: false
-hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hide_git_sync_repo_link: true
+jscomments:
+    active: true
+    provider: facebook
+process:
+    markdown: true
+    twig: true
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-tiny parallax'
 hero_image: unsplash-text.jpg
 blog_url: /blog
 show_sidebar: true
@@ -23,7 +29,7 @@ I was first introduced to the Golden Rule in catechism when I was a child.  Con
 
 ![Book Cover](256px-Bloch-SermonOnTheMount.jpg?resize=550,425&classes=right)
 
-The Golden Rule exists, if Wikipedia can be trusted, in every religion and ethical code, including those predating Christianity. Imagine if modern society could live up to this one rule (or any version of it):
+The Golden Rule exists, if Wikipedia can be trusted, in every religion and ethical codes, including those predating Christianity. Imagine if modern society could live up to this one rule (or any version of it):
 
 "That which you hate to be done to you, do not do to another." –Ancient Egypt
  

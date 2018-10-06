@@ -1,14 +1,20 @@
 ---
 title: 'THE DECLARATION'
 media_order: United_States_Declaration_of_Independence.jpg
-published: false
+published: true
 taxonomy:
     category:
         - blog
     tag:
         - manifesto
-hide_git_sync_repo_link: false
-hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hide_git_sync_repo_link: true
+jscomments:
+    active: true
+    provider: facebook
+process:
+    markdown: true
+    twig: true
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-tiny parallax'
 hero_image: unsplash-text.jpg
 blog_url: /blog
 show_sidebar: true
@@ -19,7 +25,7 @@ hide_from_post_list: false
 
 As manifestos go, it doesn’t get much more direct than the Declaration of Independence, even Jefferson wrote that “it was intended to be an expression of the American mind.” 
 
-Jefferson was heavily influenced by the Enlightenment and specifically by European philosophers such as John Locke (British anyway). These ideas were based on anti-authoritarian, liberal theories, and influenced a document that is still referred to as a beacon of hope. The hope comes from two extraordinary things in this political document: It set out a general principle of natural rights – our inalienable rights – as well as the purpose of government, deriving its power from the consent of the governed.
+Jefferson was heavily influenced by the Enlightenment and specifically by European philosophers such as John Locke (British anyway). These ideas were based on anti-authoritarian, liberal theories, and influenced a document that is still referred to as a beacon of hope. The hope comes from two extraordinary things in this political document: It set out a general principle of natural rights – our inalienable rights – as well as the purpose of government, that it derives its power from the consent of the governed.
 
 ![Book Cover](United_States_Declaration_of_Independence.jpg?resize=550,425&classes=right)
 

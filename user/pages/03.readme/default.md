@@ -17,7 +17,3 @@ page-inject:
 [plugin:content-inject](/readme/_cc-by-nc)
 [plugin:content-inject](/readme/_cc-by-nc-nd)
 [plugin:content-inject](/readme/_cc-by-nc-sa)
-[plugin:content-inject](/readme/_omarosa)
-[plugin:content-inject](/readme/_alien)
-[plugin:content-inject](/readme/_duck)
-[plugin:content-inject](/readme/_lies)  

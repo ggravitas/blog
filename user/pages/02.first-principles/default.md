@@ -46,8 +46,14 @@ The first principle is a respect for humanity. That is the most you should ever 
 - I can respect your freedom of religion without respecting your beliefs.
 - I can respect your right to life, liberty, and the pursuit of happiness without respecting you.
 
-Let's face it, there are deplorable people in the world, and, whether through ignorance or malice, they are bent on destroying what is fair and kind. Fair and kind people, on the other hand, try to be polite and respectful; we try to reason; we present facts and arguments. Today, none of that matters. You will not flip a Trump supporter with reason or decency. Some people are not deserving of our time or respect. We forget that too often. We point out because this blog is mostly about outrageous, deplorable things we are doing to each other in this country. So, undoubtedly, there wiil be posts with some pretty harsh words about the human zoo we live in, and when you criticize the harshness, you will be sent a link to this page.
+Let's face it, there are deplorable people in the world, and, whether through ignorance or malice, they are bent on destroying what is fair and kind. Fair and kind people, on the other hand, try to be polite and respectful; we try to reason; we present facts and arguments. Today, none of that matters. You will not flip a Trump supporter with reason or decency. Some people are not deserving of our time or respect. We forget that too often. I point that out because this blog is mostly about outrageous, deplorable things we are doing to each other in this country. So, undoubtedly, there wiil be posts with some pretty harsh words about the human zoo we live in, and when you criticize that harshness, you will be sent a link to this page.
 
 <iframe src="https://www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Foutragefatigue.blog%2Ffirst-principles&layout=button_count&size=small&mobile_iframe=true&appId=437950656695336&width=69&height=20" width="69" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 >#### _Don’t explain your philosophy. Embody it_. --Epictetus
+
+<!-- begin wwww.htmlcommentbox.com -->
+ <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
+ <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+ <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24O0wyvDnwphHnKqFuy4I3Z%2F"+"&opts=16862&num=10&ts=1538946995139");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end www.htmlcommentbox.com -->

@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1538857009,
-    'checksum' => 'de895faaf34bfa277076ba44d788bbdc',
+    'timestamp' => 1539060523,
+    'checksum' => 'bc75e221b48f12d4bf99ec7265c08a00',
     'files' => [
         'user/config' => [
             'media' => [
@@ -79,7 +79,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1538851319
+                'modified' => 1539017358
             ],
             'themes/antimatter-open-publishing' => [
                 'file' => 'user/config/themes/antimatter-open-publishing.yaml',

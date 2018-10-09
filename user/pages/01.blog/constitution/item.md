@@ -25,17 +25,18 @@ hide_from_post_list: false
 
 As manifestos go, it doesn’t get much more direct than the Declaration of Independence; Jefferson even wrote that “it was intended to be an expression of the American mind.” 
 
-Jefferson was heavily influenced by the Enlightenment and specifically by European philosophers such as John Locke (British anyway). These ideas were based on anti-authoritarian, liberal theories, and influenced a document that is still referred to as a beacon of hope. The hope comes from two extraordinary things in this political document: It set out a general principle of natural rights – our inalienable rights – as well as the purpose of government, that it derives its power from the consent of the governed.
+Jefferson was heavily influenced by the Enlightenment and specifically by European philosophers such as John Locke. The ideas were based on anti-authoritarian, liberal theories, and influenced a document that is still referred to as a beacon of hope. The hope comes from two extraordinary things in this political document: It set out a general principle of natural rights – our inalienable rights – as well as the purpose of government, that it derives its power from the consent of the governed.
 
-![Book Cover](United_States_Declaration_of_Independence.jpg?resize=550,425&classes=right)
+![Book Cover](United_States_Declaration_of_Independence.jpg?resize=450,325&classes=right)
 
-Jefferson wrote that the authority of the Declaration rested on the “harmonizing sentiments of the day”. What are the harmonizing sentiments of our day? It seems to be indecency and meanness. Our childish selves rule this country. We've been coasting up until now, and we're at a crossroads where we have to choose what kind of people and what kind of country we want to be. I hope we choose wisely.
+As hopeful as the document still is, we forget that in the process of “harmonizing” the Declaration, Congress removed Jefferson’s condemnation of slavery and kept that pesky, unenlightened passage referring to the natives as “merciless Indian Savages”. The document reveals both our grand ideals and our deepest flaws. 
 
-As hopeful as the document still is, we forget that in the process of “harmonizing” the Declaration, Congress removed Jefferson’s condemnation of slavery and kept that pesky, unenlightened passage referring to the natives as “merciless Indian Savages”. The document reveals both our grand ideals and our deepest flaws. We’ve changed very little, but I remain hopeful for this:
+Jefferson wrote that the authority of the Declaration rested on the “harmonizing sentiments of the day”. What are the harmonizing sentiments of our day? It seems to be indecency and meanness. Our childish selves rule this country, and we're at a crossroads where we have to choose what kind of people and what kind of country we want to be. I hope we choose wisely.
+
 
 >“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.–That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, –That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security. …”
 
-
+<!-- begin FB Share -->
 <iframe src="https://www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Foutragefatigue.blog%2Fblog%2Fconstitution&layout=button_count&size=small&mobile_iframe=true&appId=437950656695336&width=69&height=20" width="69" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 <!-- begin wwww.htmlcommentbox.com -->

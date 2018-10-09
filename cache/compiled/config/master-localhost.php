@@ -1,322 +1,234 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1539031807,
-    'checksum' => 'bc75e221b48f12d4bf99ec7265c08a00',
+    'timestamp' => 1539121579,
+    'checksum' => '7021b41bc7327f8c154248b2a7154f8f',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/admin' => [
                 'file' => 'user/config/plugins/admin.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/config/plugins/breadcrumbs.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/external_links' => [
                 'file' => 'user/config/plugins/external_links.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/feed' => [
                 'file' => 'user/config/plugins/feed.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/git-sync' => [
                 'file' => 'user/config/plugins/git-sync.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/jscomments' => [
                 'file' => 'user/config/plugins/jscomments.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/page-inject' => [
                 'file' => 'user/config/plugins/page-inject.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/relatedpages' => [
                 'file' => 'user/config/plugins/relatedpages.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/shortcode-core' => [
                 'file' => 'user/config/plugins/shortcode-core.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/config/plugins/simplesearch.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/social-feed' => [
                 'file' => 'user/config/plugins/social-feed.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/social-meta-tags' => [
                 'file' => 'user/config/plugins/social-meta-tags.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/taxonomylist' => [
                 'file' => 'user/config/plugins/taxonomylist.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/tntsearch' => [
                 'file' => 'user/config/plugins/tntsearch.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1538841138
+                'modified' => 1538776193
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1539017358
+                'modified' => 1539121524
             ],
             'themes/antimatter-open-publishing' => [
                 'file' => 'user/config/themes/antimatter-open-publishing.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'themes/mytheme' => [
                 'file' => 'user/config/themes/mytheme.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'themes/quark-open-publishing' => [
                 'file' => 'user/config/themes/quark-open-publishing.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1538841138
+                'modified' => 1539121510
             ],
             'security' => [
                 'file' => 'system/config/security.yaml',
-                'modified' => 1538841138
+                'modified' => 1539121510
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1538841138
+                'modified' => 1539121510
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1538841138
+                'modified' => 1539121510
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1538841138
+                'modified' => 1539121510
             ]
         ],
         'user/plugins' => [
-            'plugins/markdown-notices' => [
-                'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
-                'modified' => 1538841138
+            'plugins/admin' => [
+                'file' => 'user/plugins/admin/admin.yaml',
+                'modified' => 1539121577
             ],
             'plugins/archives' => [
                 'file' => 'user/plugins/archives/archives.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/external_links' => [
-                'file' => 'user/plugins/external_links/external_links.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/tntsearch' => [
-                'file' => 'user/plugins/tntsearch/tntsearch.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/admin' => [
-                'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/youtube' => [
-                'file' => 'user/plugins/youtube/youtube.yaml',
-                'modified' => 1538841139
-            ],
-            'plugins/pagination' => [
-                'file' => 'user/plugins/pagination/pagination.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/auto-date' => [
                 'file' => 'user/plugins/auto-date/auto-date.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/problems' => [
-                'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/jscomments' => [
-                'file' => 'user/plugins/jscomments/jscomments.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/relatedpages' => [
-                'file' => 'user/plugins/relatedpages/relatedpages.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/markdown-fontawesome' => [
-                'file' => 'user/plugins/markdown-fontawesome/markdown-fontawesome.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/git-sync' => [
-                'file' => 'user/plugins/git-sync/git-sync.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/image-captions' => [
-                'file' => 'user/plugins/image-captions/image-captions.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/form' => [
-                'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/feed' => [
-                'file' => 'user/plugins/feed/feed.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/error' => [
-                'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/customadmin' => [
-                'file' => 'user/plugins/customadmin/customadmin.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/shortcode-core' => [
-                'file' => 'user/plugins/shortcode-core/shortcode-core.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/email' => [
-                'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1538841138
-            ],
-            'plugins/shortcode-ui' => [
-                'file' => 'user/plugins/shortcode-ui/shortcode-ui.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/breadcrumbs.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775353
             ],
-            'plugins/social-feed' => [
-                'file' => 'user/plugins/social-feed/social-feed.yaml',
-                'modified' => 1538841138
+            'plugins/customadmin' => [
+                'file' => 'user/plugins/customadmin/customadmin.yaml',
+                'modified' => 1538775353
             ],
-            'plugins/page-inject' => [
-                'file' => 'user/plugins/page-inject/page-inject.yaml',
-                'modified' => 1538841138
+            'plugins/email' => [
+                'file' => 'user/plugins/email/email.yaml',
+                'modified' => 1538775353
+            ],
+            'plugins/error' => [
+                'file' => 'user/plugins/error/error.yaml',
+                'modified' => 1538775353
+            ],
+            'plugins/external_links' => [
+                'file' => 'user/plugins/external_links/external_links.yaml',
+                'modified' => 1538775353
+            ],
+            'plugins/feed' => [
+                'file' => 'user/plugins/feed/feed.yaml',
+                'modified' => 1538775353
+            ],
+            'plugins/form' => [
+                'file' => 'user/plugins/form/form.yaml',
+                'modified' => 1538775353
+            ],
+            'plugins/git-sync' => [
+                'file' => 'user/plugins/git-sync/git-sync.yaml',
+                'modified' => 1538775353
+            ],
+            'plugins/image-captions' => [
+                'file' => 'user/plugins/image-captions/image-captions.yaml',
+                'modified' => 1538775354
+            ],
+            'plugins/jscomments' => [
+                'file' => 'user/plugins/jscomments/jscomments.yaml',
+                'modified' => 1538775354
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775354
+            ],
+            'plugins/markdown-fontawesome' => [
+                'file' => 'user/plugins/markdown-fontawesome/markdown-fontawesome.yaml',
+                'modified' => 1538775354
+            ],
+            'plugins/markdown-notices' => [
+                'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
+                'modified' => 1538775354
+            ],
+            'plugins/page-inject' => [
+                'file' => 'user/plugins/page-inject/page-inject.yaml',
+                'modified' => 1538775354
+            ],
+            'plugins/pagination' => [
+                'file' => 'user/plugins/pagination/pagination.yaml',
+                'modified' => 1538775354
+            ],
+            'plugins/problems' => [
+                'file' => 'user/plugins/problems/problems.yaml',
+                'modified' => 1538775354
+            ],
+            'plugins/relatedpages' => [
+                'file' => 'user/plugins/relatedpages/relatedpages.yaml',
+                'modified' => 1538775354
+            ],
+            'plugins/shortcode-core' => [
+                'file' => 'user/plugins/shortcode-core/shortcode-core.yaml',
+                'modified' => 1538775354
+            ],
+            'plugins/shortcode-ui' => [
+                'file' => 'user/plugins/shortcode-ui/shortcode-ui.yaml',
+                'modified' => 1538775354
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/simplesearch.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775354
+            ],
+            'plugins/social-feed' => [
+                'file' => 'user/plugins/social-feed/social-feed.yaml',
+                'modified' => 1538775354
             ],
             'plugins/taxonomylist' => [
                 'file' => 'user/plugins/taxonomylist/taxonomylist.yaml',
-                'modified' => 1538841138
+                'modified' => 1538775354
+            ],
+            'plugins/tntsearch' => [
+                'file' => 'user/plugins/tntsearch/tntsearch.yaml',
+                'modified' => 1538775354
+            ],
+            'plugins/youtube' => [
+                'file' => 'user/plugins/youtube/youtube.yaml',
+                'modified' => 1538775354
             ]
         ]
     ],
     'data' => [
         'plugins' => [
-            'markdown-notices' => [
-                'enabled' => true,
-                'built_in_css' => true,
-                'level_classes' => [
-                    0 => 'yellow',
-                    1 => 'red',
-                    2 => 'blue',
-                    3 => 'green'
-                ]
-            ],
-            'archives' => [
-                'enabled' => true,
-                'built_in_css' => true,
-                'date_display_format' => 'F Y',
-                'show_count' => true,
-                'limit' => 12,
-                'order' => [
-                    'by' => 'date',
-                    'dir' => 'desc'
-                ],
-                'filter_combinator' => 'and',
-                'filters' => [
-                    'category' => 'blog'
-                ],
-                'taxonomy_names' => [
-                    'month' => 'archives_month',
-                    'year' => 'archives_year'
-                ]
-            ],
-            'external_links' => [
-                'enabled' => true,
-                'built_in_css' => false,
-                'weight' => 0,
-                'exclude' => [
-                    'classes' => [
-                        0 => 'exclude'
-                    ],
-                    'domains' => NULL
-                ],
-                'links' => [
-                    'www' => false,
-                    'redirects' => false,
-                    'schemes' => [
-                        0 => 'http',
-                        1 => 'https',
-                        2 => 'ftp',
-                        3 => 'irc',
-                        4 => 'mailto',
-                        5 => 'news',
-                        6 => 'nntp',
-                        7 => 'rtsp',
-                        8 => 'sftp',
-                        9 => 'ssh',
-                        10 => 'tel',
-                        11 => 'telnet',
-                        12 => 'webcal'
-                    ]
-                ],
-                'process' => true,
-                'title' => false,
-                'no_follow' => true,
-                'target' => '_blank',
-                'mode' => 'active'
-            ],
-            'tntsearch' => [
-                'enabled' => false,
-                'search_route' => '/search',
-                'query_route' => '/s',
-                'built_in_css' => true,
-                'built_in_js' => true,
-                'built_in_search_page' => true,
-                'enable_admin_page_events' => true,
-                'search_type' => 'default',
-                'fuzzy' => false,
-                'phrases' => true,
-                'stemmer' => 'default',
-                'display_route' => true,
-                'display_hits' => true,
-                'display_time' => false,
-                'live_uri_update' => true,
-                'limit' => 20,
-                'min' => 3,
-                'snippet' => 300,
-                'index_page_by_default' => true,
-                'filter' => NULL,
-                'powered_by' => true,
-                'search_object_type' => 'Grav'
-            ],
             'admin' => [
                 'enabled' => true,
                 'route' => '/admin',
@@ -389,41 +301,157 @@ return [
                     ]
                 ]
             ],
-            'youtube' => [
+            'archives' => [
                 'enabled' => true,
                 'built_in_css' => true,
-                'add_editor_button' => true,
-                'player_parameters' => [
-                    'autoplay' => 0,
-                    'cc_load_policy' => 0,
-                    'color' => 'red',
-                    'controls' => 1,
-                    'disablekb' => 0,
-                    'enablejsapi' => 0,
-                    'fs' => 1,
-                    'hl' => '',
-                    'iv_load_policy' => 1,
-                    'loop' => 0,
-                    'modestbranding' => 0,
-                    'origin' => '',
-                    'playsinline' => 0,
-                    'rel' => 1,
-                    'showinfo' => 1,
-                    'vq' => 'default'
+                'date_display_format' => 'F Y',
+                'show_count' => true,
+                'limit' => 12,
+                'order' => [
+                    'by' => 'date',
+                    'dir' => 'desc'
                 ],
-                'privacy_enhanced_mode' => false
-            ],
-            'pagination' => [
-                'enabled' => true,
-                'built_in_css' => true,
-                'delta' => 0
+                'filter_combinator' => 'and',
+                'filters' => [
+                    'category' => 'blog'
+                ],
+                'taxonomy_names' => [
+                    'month' => 'archives_month',
+                    'year' => 'archives_year'
+                ]
             ],
             'auto-date' => [
                 'enabled' => true
             ],
-            'problems' => [
+            'breadcrumbs' => [
                 'enabled' => true,
-                'built_in_css' => true
+                'show_all' => true,
+                'built_in_css' => true,
+                'include_home' => true,
+                'include_current' => true,
+                'icon_home' => '',
+                'icon_divider_classes' => 'fa fa-angle-right',
+                'link_trailing' => false
+            ],
+            'customadmin' => [
+                'enabled' => true
+            ],
+            'email' => [
+                'enabled' => true,
+                'from' => NULL,
+                'from_name' => NULL,
+                'to' => NULL,
+                'to_name' => NULL,
+                'mailer' => [
+                    'engine' => 'sendmail',
+                    'smtp' => [
+                        'server' => 'localhost',
+                        'port' => 25,
+                        'encryption' => 'none',
+                        'user' => '',
+                        'password' => ''
+                    ],
+                    'sendmail' => [
+                        'bin' => '/usr/sbin/sendmail -bs'
+                    ]
+                ],
+                'content_type' => 'text/html',
+                'debug' => false
+            ],
+            'error' => [
+                'enabled' => true,
+                'routes' => [
+                    404 => '/error'
+                ]
+            ],
+            'external_links' => [
+                'enabled' => true,
+                'built_in_css' => false,
+                'weight' => 0,
+                'exclude' => [
+                    'classes' => [
+                        0 => 'exclude'
+                    ],
+                    'domains' => NULL
+                ],
+                'links' => [
+                    'www' => false,
+                    'redirects' => false,
+                    'schemes' => [
+                        0 => 'http',
+                        1 => 'https',
+                        2 => 'ftp',
+                        3 => 'irc',
+                        4 => 'mailto',
+                        5 => 'news',
+                        6 => 'nntp',
+                        7 => 'rtsp',
+                        8 => 'sftp',
+                        9 => 'ssh',
+                        10 => 'tel',
+                        11 => 'telnet',
+                        12 => 'webcal'
+                    ]
+                ],
+                'process' => true,
+                'title' => false,
+                'no_follow' => true,
+                'target' => '_blank',
+                'mode' => 'active'
+            ],
+            'feed' => [
+                'enabled' => false,
+                'limit' => 10,
+                'description' => 'My Feed Description',
+                'lang' => 'en-us',
+                'length' => 500,
+                'enable_json_feed' => false
+            ],
+            'form' => [
+                'enabled' => true,
+                'built_in_css' => true,
+                'inline_css' => true,
+                'refresh_prevention' => false,
+                'client_side_validation' => true,
+                'inline_errors' => false,
+                'files' => [
+                    'multiple' => false,
+                    'limit' => 10,
+                    'destination' => 'self@',
+                    'avoid_overwriting' => false,
+                    'random_name' => false,
+                    'filesize' => 0,
+                    'accept' => [
+                        0 => 'image/*'
+                    ]
+                ]
+            ],
+            'git-sync' => [
+                'enabled' => false,
+                'text_var' => 'Custom Text added by the **Git Sync** plugin (disable plugin to remove)',
+                'folders' => [
+                    0 => 'pages'
+                ],
+                'webhook' => '/_git-sync',
+                'branch' => 'master',
+                'remote' => [
+                    'name' => 'origin',
+                    'branch' => 'master'
+                ],
+                'git' => [
+                    'author' => 'gituser',
+                    'name' => 'GitSync',
+                    'bin' => 'git'
+                ],
+                'logging' => false
+            ],
+            'image-captions' => [
+                'enabled' => true,
+                'built_in_css' => true,
+                'entire_page' => false,
+                'scope' => 'img.caption',
+                'figure_class' => 'image-caption',
+                'figcaption_class' => NULL
             ],
             'jscomments' => [
                 'enabled' => true,
@@ -504,183 +532,6 @@ return [
                     ]
                 ]
             ],
-            'relatedpages' => [
-                'enabled' => true,
-                'limit' => 5,
-                'show_score' => true,
-                'score_threshold' => 20,
-                'filter' => [
-                    'items' => [
-                        '@page' => '/blog'
-                    ],
-                    'order' => [
-                        'by' => 'date',
-                        'dir' => 'desc'
-                    ]
-                ],
-                'page_in_filter' => true,
-                'explicit_pages' => [
-                    'process' => true,
-                    'score' => 100
-                ],
-                'taxonomy_match' => [
-                    'taxonomy' => 'tag',
-                    'taxonomy_taxonomy' => [
-                        'process' => true,
-                        'score_scale' => [
-                            1 => 50,
-                            2 => 75,
-                            3 => 100
-                        ]
-                    ],
-                    'taxonomy_content' => [
-                        'process' => true,
-                        'score_scale' => [
-                            1 => 20,
-                            2 => 30,
-                            3 => 45,
-                            4 => 60,
-                            5 => 70,
-                            6 => 80,
-                            7 => 90,
-                            8 => 100
-                        ]
-                    ]
-                ],
-                'content_match' => [
-                    'process' => false
-                ]
-            ],
-            'markdown-fontawesome' => [
-                'enabled' => true
-            ],
-            'git-sync' => [
-                'enabled' => false,
-                'text_var' => 'Custom Text added by the **Git Sync** plugin (disable plugin to remove)',
-                'folders' => [
-                    0 => 'pages'
-                ],
-                'webhook' => '/_git-sync',
-                'branch' => 'master',
-                'remote' => [
-                    'name' => 'origin',
-                    'branch' => 'master'
-                ],
-                'git' => [
-                    'author' => 'gituser',
-                    'name' => 'GitSync',
-                    'bin' => 'git'
-                ],
-                'logging' => false
-            ],
-            'image-captions' => [
-                'enabled' => true,
-                'built_in_css' => true,
-                'entire_page' => false,
-                'scope' => 'img.caption',
-                'figure_class' => 'image-caption',
-                'figcaption_class' => NULL
-            ],
-            'form' => [
-                'enabled' => true,
-                'built_in_css' => true,
-                'inline_css' => true,
-                'refresh_prevention' => false,
-                'client_side_validation' => true,
-                'inline_errors' => false,
-                'files' => [
-                    'multiple' => false,
-                    'limit' => 10,
-                    'destination' => 'self@',
-                    'avoid_overwriting' => false,
-                    'random_name' => false,
-                    'filesize' => 0,
-                    'accept' => [
-                        0 => 'image/*'
-                    ]
-                ]
-            ],
-            'feed' => [
-                'enabled' => false,
-                'limit' => 10,
-                'description' => 'My Feed Description',
-                'lang' => 'en-us',
-                'length' => 500,
-                'enable_json_feed' => false
-            ],
-            'error' => [
-                'enabled' => true,
-                'routes' => [
-                    404 => '/error'
-                ]
-            ],
-            'customadmin' => [
-                'enabled' => true
-            ],
-            'shortcode-core' => [
-                'enabled' => true,
-                'active' => true,
-                'active_admin' => true,
-                'parser' => 'regex',
-                'custom_shortcodes' => NULL,
-                'fontawesome' => [
-                    'load' => false,
-                    'url' => '//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css'
-                ]
-            ],
-            'email' => [
-                'enabled' => true,
-                'from' => NULL,
-                'from_name' => NULL,
-                'to' => NULL,
-                'to_name' => NULL,
-                'mailer' => [
-                    'engine' => 'sendmail',
-                    'smtp' => [
-                        'server' => 'localhost',
-                        'port' => 25,
-                        'encryption' => 'none',
-                        'user' => '',
-                        'password' => ''
-                    ],
-                    'sendmail' => [
-                        'bin' => '/usr/sbin/sendmail -bs'
-                    ]
-                ],
-                'content_type' => 'text/html',
-                'debug' => false
-            ],
-            'shortcode-ui' => [
-                'enabled' => true,
-                'theme' => [
-                    'tabs' => 'default'
-                ]
-            ],
-            'breadcrumbs' => [
-                'enabled' => true,
-                'show_all' => true,
-                'built_in_css' => true,
-                'include_home' => true,
-                'include_current' => true,
-                'icon_home' => '',
-                'icon_divider_classes' => 'fa fa-angle-right',
-                'link_trailing' => false
-            ],
-            'social-feed' => [
-                'enabled' => true,
-                'facebook_app_id' => '437950656695336',
-                'facebook_app_secret' => '4547338c531ce61742a84d560f5094d1',
-                'facebook_feeds' => [
-                    0 => [
-                        'username' => 'https://www.facebook.com/jerry.brahm'
-                    ]
-                ]
-            ],
-            'page-inject' => [
-                'enabled' => true,
-                'active' => true,
-                'processed_content' => true
-            ],
             'login' => [
                 'enabled' => true,
                 'built_in_css' => true,
@@ -735,6 +586,97 @@ return [
                     ]
                 ]
             ],
+            'markdown-fontawesome' => [
+                'enabled' => true
+            ],
+            'markdown-notices' => [
+                'enabled' => true,
+                'built_in_css' => true,
+                'level_classes' => [
+                    0 => 'yellow',
+                    1 => 'red',
+                    2 => 'blue',
+                    3 => 'green'
+                ]
+            ],
+            'page-inject' => [
+                'enabled' => true,
+                'active' => true,
+                'processed_content' => true
+            ],
+            'pagination' => [
+                'enabled' => true,
+                'built_in_css' => true,
+                'delta' => 0
+            ],
+            'problems' => [
+                'enabled' => true,
+                'built_in_css' => true
+            ],
+            'relatedpages' => [
+                'enabled' => true,
+                'limit' => 5,
+                'show_score' => true,
+                'score_threshold' => 20,
+                'filter' => [
+                    'items' => [
+                        '@page' => '/blog'
+                    ],
+                    'order' => [
+                        'by' => 'date',
+                        'dir' => 'desc'
+                    ]
+                ],
+                'page_in_filter' => true,
+                'explicit_pages' => [
+                    'process' => true,
+                    'score' => 100
+                ],
+                'taxonomy_match' => [
+                    'taxonomy' => 'tag',
+                    'taxonomy_taxonomy' => [
+                        'process' => true,
+                        'score_scale' => [
+                            1 => 50,
+                            2 => 75,
+                            3 => 100
+                        ]
+                    ],
+                    'taxonomy_content' => [
+                        'process' => true,
+                        'score_scale' => [
+                            1 => 20,
+                            2 => 30,
+                            3 => 45,
+                            4 => 60,
+                            5 => 70,
+                            6 => 80,
+                            7 => 90,
+                            8 => 100
+                        ]
+                    ]
+                ],
+                'content_match' => [
+                    'process' => false
+                ]
+            ],
+            'shortcode-core' => [
+                'enabled' => true,
+                'active' => true,
+                'active_admin' => true,
+                'parser' => 'regex',
+                'custom_shortcodes' => NULL,
+                'fontawesome' => [
+                    'load' => false,
+                    'url' => '//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css'
+                ]
+            ],
+            'shortcode-ui' => [
+                'enabled' => true,
+                'theme' => [
+                    'tabs' => 'default'
+                ]
+            ],
             'simplesearch' => [
                 'enabled' => true,
                 'built_in_css' => true,
@@ -754,9 +696,67 @@ return [
                     'dir' => 'desc'
                 ]
             ],
+            'social-feed' => [
+                'enabled' => true,
+                'facebook_app_id' => '437950656695336',
+                'facebook_app_secret' => '4547338c531ce61742a84d560f5094d1',
+                'facebook_feeds' => [
+                    0 => [
+                        'username' => 'https://www.facebook.com/jerry.brahm'
+                    ]
+                ]
+            ],
             'taxonomylist' => [
                 'enabled' => true,
                 'route' => '/blog'
+            ],
+            'tntsearch' => [
+                'enabled' => false,
+                'search_route' => '/search',
+                'query_route' => '/s',
+                'built_in_css' => true,
+                'built_in_js' => true,
+                'built_in_search_page' => true,
+                'enable_admin_page_events' => true,
+                'search_type' => 'default',
+                'fuzzy' => false,
+                'phrases' => true,
+                'stemmer' => 'default',
+                'display_route' => true,
+                'display_hits' => true,
+                'display_time' => false,
+                'live_uri_update' => true,
+                'limit' => 20,
+                'min' => 3,
+                'snippet' => 300,
+                'index_page_by_default' => true,
+                'filter' => NULL,
+                'powered_by' => true,
+                'search_object_type' => 'Grav'
+            ],
+            'youtube' => [
+                'enabled' => true,
+                'built_in_css' => true,
+                'add_editor_button' => true,
+                'player_parameters' => [
+                    'autoplay' => 0,
+                    'cc_load_policy' => 0,
+                    'color' => 'red',
+                    'controls' => 1,
+                    'disablekb' => 0,
+                    'enablejsapi' => 0,
+                    'fs' => 1,
+                    'hl' => '',
+                    'iv_load_policy' => 1,
+                    'loop' => 0,
+                    'modestbranding' => 0,
+                    'origin' => '',
+                    'playsinline' => 0,
+                    'rel' => 1,
+                    'showinfo' => 1,
+                    'vq' => 'default'
+                ],
+                'privacy_enhanced_mode' => false
             ],
             'social-meta-tags' => [
                 'enabled' => true,
@@ -1071,6 +1071,13 @@ return [
                 14 => 'bgsound',
                 15 => 'title',
                 16 => 'base'
+            ],
+            'uploads_dangerous_extensions' => [
+                0 => 'php',
+                1 => 'html',
+                2 => 'htm',
+                3 => 'js',
+                4 => 'exe'
             ],
             'salt' => 'Qw57LfkAaVGi90'
         ],

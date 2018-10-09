@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://tntsearch/tntsearch.yaml',
-    'modified' => 1538841138,
+    'modified' => 1538775354,
     'data' => [
         'enabled' => true,
         'search_route' => '/search',

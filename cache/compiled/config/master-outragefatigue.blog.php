@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1540582244,
-    'checksum' => '66e5c6621ba9e0b4d3bf628ab38abb63',
+    'timestamp' => 1540648179,
+    'checksum' => '96439da6f46d6bf66548afc403ada531',
     'files' => [
         'user/config' => [
             'media' => [
@@ -79,7 +79,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1540582240
+                'modified' => 1540648168
             ],
             'themes/antimatter-open-publishing' => [
                 'file' => 'user/config/themes/antimatter-open-publishing.yaml',
@@ -212,6 +212,10 @@ return [
             'plugins/page-inject' => [
                 'file' => 'user/plugins/page-inject/page-inject.yaml',
                 'modified' => 1539122312
+            ],
+            'plugins/featherlight' => [
+                'file' => 'user/plugins/featherlight/featherlight.yaml',
+                'modified' => 1540648168
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
@@ -680,6 +684,18 @@ return [
                 'enabled' => true,
                 'active' => true,
                 'processed_content' => true
+            ],
+            'featherlight' => [
+                'enabled' => true,
+                'active' => true,
+                'gallery' => false,
+                'requirejs' => false,
+                'openSpeed' => 250,
+                'closeSpeed' => 250,
+                'closeOnClick' => 'background',
+                'closeOnEsc' => true,
+                'root' => 'body',
+                'initTemplate' => 'plugin://featherlight/js/featherlight.init.js'
             ],
             'login' => [
                 'enabled' => true,

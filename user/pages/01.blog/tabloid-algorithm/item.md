@@ -26,7 +26,7 @@ Our culture seems to change as quickly as the trending topics on Twitter. It’s
 When I was a journalist, especially when writing and editing for online news, I learned that everything depends on counting the clicks. Issues become trending when users – we’re not called “readers” anymore – click, share, or mention what was posted. Once just the purview of supermarket tabloids, a lot of an editor’s time at serious news outlets today is spent on crafting headlines that grab people’s – sorry – users’ attention. It’s called clickbait, the tabloid algorithm.
 
 The engine of our online commerce, more than $325 billion a year in the U.S., runs on this model. Our media, mainstream and alternative, use the same tools to sell stories as companies use to sell widgets. Fact or fiction, the measurement of success is the same.
-![Media Biased Chart](Media-Bias-Chart_Version-3.1_Standard_License-min.jpg?resize=450,325&classes=right)
+![Media Biased Chart](Media-Bias-Chart_Version-3.1_Standard_License-min.jpg?lightbox=1024&cropResize=450,325&classes=right)
 
 You post your most adorable selfie and it gets 50 likes and 3 shares and you’re ecstatic, until three minutes later when you see someone else got 100 likes and 5 shares, and so on. If you are motivated by fame, commerce, or both, you don’t have to be a genius to figure out that the more provocative you are, the more attention you will get. This tabloid algorithm isn’t new; it’s just in our faces 24 hours a day.
 

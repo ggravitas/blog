@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1540582247,
-    'checksum' => '9ea0c77995f897e266ef4df416510bda',
+    'timestamp' => 1540648180,
+    'checksum' => '9a8dd8b7547789d7384ea1449e86341e',
     'files' => [
         'user/plugins/admin/blueprints/config' => [
             'media' => [
@@ -128,6 +128,10 @@ return [
             'plugins/page-inject' => [
                 'file' => 'user/plugins/page-inject/blueprints.yaml',
                 'modified' => 1539122312
+            ],
+            'plugins/featherlight' => [
+                'file' => 'user/plugins/featherlight/blueprints.yaml',
+                'modified' => 1540648168
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/blueprints.yaml',
@@ -5735,6 +5739,133 @@ return [
                 'name' => 'plugins.page-inject.processed_content',
                 'validation' => 'strict'
             ],
+            'plugins.featherlight' => [
+                'type' => '_root',
+                'form_field' => false,
+                'form' => [
+                    'validation' => 'strict'
+                ]
+            ],
+            'plugins.featherlight.enabled' => [
+                'type' => 'toggle',
+                'label' => 'PLUGIN_ADMIN.PLUGIN_STATUS',
+                'hightlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.featherlight.enabled',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.active' => [
+                'type' => 'toggle',
+                'label' => 'Active',
+                'hightlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.featherlight.active',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.requirejs' => [
+                'type' => 'toggle',
+                'label' => 'RequireJS',
+                'hightlight' => 1,
+                'default' => 0,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.featherlight.requirejs',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.gallery' => [
+                'type' => 'toggle',
+                'label' => 'Gallery',
+                'hightlight' => 1,
+                'default' => 0,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.featherlight.gallery',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.openSpeed' => [
+                'type' => 'text',
+                'size' => 'medium',
+                'label' => 'Open Speed',
+                'default' => '250',
+                'name' => 'plugins.featherlight.openSpeed',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.closeSpeed' => [
+                'type' => 'text',
+                'size' => 'medium',
+                'label' => 'Close Speed',
+                'default' => '250',
+                'name' => 'plugins.featherlight.closeSpeed',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.closeOnClick' => [
+                'type' => 'select',
+                'size' => 'medium',
+                'classes' => 'fancy',
+                'label' => 'Close on Click',
+                'options' => [
+                    'background' => 'background',
+                    'anywhere' => 'anywhere',
+                    'false' => 'false'
+                ],
+                'name' => 'plugins.featherlight.closeOnClick',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.closeOnEsc' => [
+                'type' => 'toggle',
+                'label' => 'Close on Esc',
+                'hightlight' => 1,
+                'default' => 0,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.featherlight.closeOnEsc',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.root' => [
+                'type' => 'text',
+                'size' => 'medium',
+                'label' => 'Root',
+                'default' => 'body',
+                'name' => 'plugins.featherlight.root',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.initTemplate' => [
+                'type' => 'text',
+                'size' => 'medium',
+                'label' => 'Init script',
+                'default' => 'plugin://featherlight/js/featherlight.init.js',
+                'name' => 'plugins.featherlight.initTemplate',
+                'validation' => 'strict'
+            ],
             'plugins.login' => [
                 'type' => '_root',
                 'form_field' => false,
@@ -6956,6 +7087,18 @@ return [
                     'enabled' => 'plugins.page-inject.enabled',
                     'active' => 'plugins.page-inject.active',
                     'processed_content' => 'plugins.page-inject.processed_content'
+                ],
+                'featherlight' => [
+                    'enabled' => 'plugins.featherlight.enabled',
+                    'active' => 'plugins.featherlight.active',
+                    'requirejs' => 'plugins.featherlight.requirejs',
+                    'gallery' => 'plugins.featherlight.gallery',
+                    'openSpeed' => 'plugins.featherlight.openSpeed',
+                    'closeSpeed' => 'plugins.featherlight.closeSpeed',
+                    'closeOnClick' => 'plugins.featherlight.closeOnClick',
+                    'closeOnEsc' => 'plugins.featherlight.closeOnEsc',
+                    'root' => 'plugins.featherlight.root',
+                    'initTemplate' => 'plugins.featherlight.initTemplate'
                 ],
                 'login' => [
                     'enabled' => 'plugins.login.enabled',

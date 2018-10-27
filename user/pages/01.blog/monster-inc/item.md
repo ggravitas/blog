@@ -7,7 +7,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - outragefatigue
+        - '#outragefatigue'
         - Omarosa
 hide_git_sync_repo_link: true
 jscomments:

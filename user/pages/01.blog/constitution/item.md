@@ -28,7 +28,7 @@ As manifestos go, it doesn’t get much more direct than the Declaration of Inde
 
 Jefferson was heavily influenced by the Enlightenment and specifically by European philosophers such as John Locke. The ideas were based on anti-authoritarian, liberal theories, and influenced a document that is still referred to as a beacon of hope. The hope comes from two extraordinary things in this political document: It set out a general principle of natural rights – our inalienable rights – as well as the purpose of government, that it derives its power from the consent of the governed.
 
-![Book Cover](United_States_Declaration_of_Independence.jpg?resize=450,325&classes=right)
+![Declaration of Independence](United_States_Declaration_of_Independence.jpg?resize=450,325&classes=right)
 
 As hopeful as the document still is, we forget that in the process of “harmonizing” the Declaration, Congress removed Jefferson’s condemnation of slavery and kept that pesky, unenlightened passage referring to the natives as “merciless Indian Savages”. The document reveals both our grand ideals and our deepest flaws. 
 

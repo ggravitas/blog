@@ -1,347 +1,347 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1539121580,
-    'checksum' => 'fe6c8423e0ffb0dd1cb15feb7373e592',
+    'timestamp' => 1540594167,
+    'checksum' => '7e402ca82a45d1b3784a1be452e73406',
     'files' => [
         'system/languages' => [
             'ar' => [
                 'file' => 'system/languages/ar.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'ca' => [
                 'file' => 'system/languages/ca.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'cs' => [
                 'file' => 'system/languages/cs.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'da' => [
                 'file' => 'system/languages/da.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'de' => [
                 'file' => 'system/languages/de.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'el' => [
                 'file' => 'system/languages/el.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'en' => [
                 'file' => 'system/languages/en.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'es' => [
                 'file' => 'system/languages/es.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'fi' => [
                 'file' => 'system/languages/fi.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'fr' => [
                 'file' => 'system/languages/fr.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'hr' => [
                 'file' => 'system/languages/hr.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'hu' => [
                 'file' => 'system/languages/hu.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'it' => [
                 'file' => 'system/languages/it.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'ja' => [
                 'file' => 'system/languages/ja.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'lt' => [
                 'file' => 'system/languages/lt.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'nb' => [
                 'file' => 'system/languages/nb.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'nl' => [
                 'file' => 'system/languages/nl.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'no' => [
                 'file' => 'system/languages/no.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'pl' => [
                 'file' => 'system/languages/pl.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'pt' => [
                 'file' => 'system/languages/pt.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'ro' => [
                 'file' => 'system/languages/ro.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'ru' => [
                 'file' => 'system/languages/ru.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'sk' => [
                 'file' => 'system/languages/sk.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'sv' => [
                 'file' => 'system/languages/sv.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'th' => [
                 'file' => 'system/languages/th.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'tr' => [
                 'file' => 'system/languages/tr.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'uk' => [
                 'file' => 'system/languages/uk.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ],
             'vi' => [
                 'file' => 'system/languages/vi.yaml',
-                'modified' => 1539121510
+                'modified' => 1539122311
             ]
         ],
         'user/plugins' => [
-            'plugins/email' => [
-                'file' => 'user/plugins/email/languages.yaml',
-                'modified' => 1538775353
-            ],
-            'plugins/error' => [
-                'file' => 'user/plugins/error/languages.yaml',
-                'modified' => 1538775353
-            ],
             'plugins/external_links' => [
                 'file' => 'user/plugins/external_links/languages.yaml',
-                'modified' => 1538775353
-            ],
-            'plugins/form' => [
-                'file' => 'user/plugins/form/languages.yaml',
-                'modified' => 1538775353
+                'modified' => 1539122312
             ],
             'plugins/jscomments' => [
                 'file' => 'user/plugins/jscomments/languages.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
             ],
             'plugins/relatedpages' => [
                 'file' => 'user/plugins/relatedpages/languages.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
+            ],
+            'plugins/form' => [
+                'file' => 'user/plugins/form/languages.yaml',
+                'modified' => 1539122312
+            ],
+            'plugins/error' => [
+                'file' => 'user/plugins/error/languages.yaml',
+                'modified' => 1539122312
+            ],
+            'plugins/email' => [
+                'file' => 'user/plugins/email/languages.yaml',
+                'modified' => 1539122312
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/languages.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
             ]
         ],
         'user/plugins/admin/languages' => [
             'ar' => [
                 'file' => 'user/plugins/admin/languages/ar.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'bg' => [
                 'file' => 'user/plugins/admin/languages/bg.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'br' => [
                 'file' => 'user/plugins/admin/languages/br.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'ca' => [
                 'file' => 'user/plugins/admin/languages/ca.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'cs' => [
                 'file' => 'user/plugins/admin/languages/cs.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'cy' => [
                 'file' => 'user/plugins/admin/languages/cy.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'da' => [
                 'file' => 'user/plugins/admin/languages/da.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'de' => [
                 'file' => 'user/plugins/admin/languages/de.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'el' => [
                 'file' => 'user/plugins/admin/languages/el.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'en' => [
                 'file' => 'user/plugins/admin/languages/en.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'es' => [
                 'file' => 'user/plugins/admin/languages/es.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'et' => [
                 'file' => 'user/plugins/admin/languages/et.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'eu' => [
                 'file' => 'user/plugins/admin/languages/eu.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'fa' => [
                 'file' => 'user/plugins/admin/languages/fa.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'fi' => [
                 'file' => 'user/plugins/admin/languages/fi.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'fr' => [
                 'file' => 'user/plugins/admin/languages/fr.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'he' => [
                 'file' => 'user/plugins/admin/languages/he.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'hr' => [
                 'file' => 'user/plugins/admin/languages/hr.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'hu' => [
                 'file' => 'user/plugins/admin/languages/hu.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'id' => [
                 'file' => 'user/plugins/admin/languages/id.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'it' => [
                 'file' => 'user/plugins/admin/languages/it.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'ja' => [
                 'file' => 'user/plugins/admin/languages/ja.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'ko' => [
                 'file' => 'user/plugins/admin/languages/ko.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'lt' => [
                 'file' => 'user/plugins/admin/languages/lt.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'nl' => [
                 'file' => 'user/plugins/admin/languages/nl.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'no' => [
                 'file' => 'user/plugins/admin/languages/no.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'pl' => [
                 'file' => 'user/plugins/admin/languages/pl.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'pt' => [
                 'file' => 'user/plugins/admin/languages/pt.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'ro' => [
                 'file' => 'user/plugins/admin/languages/ro.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'ru' => [
                 'file' => 'user/plugins/admin/languages/ru.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'sk' => [
                 'file' => 'user/plugins/admin/languages/sk.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'sl' => [
                 'file' => 'user/plugins/admin/languages/sl.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'sv' => [
                 'file' => 'user/plugins/admin/languages/sv.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'th' => [
                 'file' => 'user/plugins/admin/languages/th.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'tlh' => [
                 'file' => 'user/plugins/admin/languages/tlh.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'tr' => [
                 'file' => 'user/plugins/admin/languages/tr.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'uk' => [
                 'file' => 'user/plugins/admin/languages/uk.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'vi' => [
                 'file' => 'user/plugins/admin/languages/vi.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ],
             'zh' => [
                 'file' => 'user/plugins/admin/languages/zh.yaml',
-                'modified' => 1539121577
+                'modified' => 1539122311
             ]
         ],
         'user/plugins/login/languages' => [
             'de' => [
                 'file' => 'user/plugins/login/languages/de.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
             ],
             'en' => [
                 'file' => 'user/plugins/login/languages/en.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
             ],
             'es' => [
                 'file' => 'user/plugins/login/languages/es.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
             ],
             'fr' => [
                 'file' => 'user/plugins/login/languages/fr.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
             ],
             'hr' => [
                 'file' => 'user/plugins/login/languages/hr.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
             ],
             'hu' => [
                 'file' => 'user/plugins/login/languages/hu.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
             ],
             'no' => [
                 'file' => 'user/plugins/login/languages/no.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
             ],
             'ro' => [
                 'file' => 'user/plugins/login/languages/ro.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
             ],
             'ru' => [
                 'file' => 'user/plugins/login/languages/ru.yaml',
-                'modified' => 1538775354
+                'modified' => 1539122312
             ]
         ]
     ],
@@ -1070,15 +1070,6 @@ return [
                 'CONTENT_PADDING' => 'Abstand um Inhalte',
                 'CONTENT_PADDING_HELP' => 'Abstand um Inhalte aktivieren/deaktivieren um mehr Platz anzubieten'
             ],
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'E-Mail ist nicht konfiguriert',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Bitte konfigurieren sie eine \'An\' (\'to\') Adresse in den Email-Plugin-Einstellungen oder im Formular.',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Bitte konfigurieren sie eine \'Von\' (\'from\') Adresse in den Email-Plugin-Einstellungen oder im Formular.'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Fehler',
-                'ERROR_MESSAGE' => 'Uuups. Sieht aus als ob diese Seite nicht existiert.'
-            ],
             'PLUGINS' => [
                 'EXTERNAL_LINKS' => [
                     'PLUGIN_NAME' => 'External Links',
@@ -1293,21 +1284,6 @@ return [
                     ]
                 ]
             ],
-            'PLUGIN_FORM' => [
-                'NOT_VALIDATED' => 'Formularwerte nicht gültig. Für ein oder mehrere erforderliche Felder fehlen Werte.',
-                'NONCE_NOT_VALIDATED' => 'Ups, es gibt da ein Problem. Eingabewerte bitte noch mal prüfen und das Formular erneut absenden.',
-                'FILES' => 'Dateien hochladen',
-                'ALLOW_MULTIPLE' => 'Erlaube mehr als eine Datei',
-                'ALLOW_MULTIPLE_HELP' => 'Erlaubt es, mehr als eine Datei zum Hochladen auszuwählen.',
-                'DESTINATION' => 'Ziel',
-                'DESTINATION_HELP' => 'Das Ziel, wohin die Dateien hochgeladen werden sollen.',
-                'ACCEPT' => 'Erlaube MIME-Typen',
-                'ACCEPT_HELP' => 'Eine Liste von MIME-Typen, die hochgeladen werden dürfen.',
-                'ERROR_VALIDATING_CAPTCHA' => 'Die Überprüfung des Captcha ist fehlgeschlagen.',
-                'DATA_SUMMARY' => 'Hier die Zusammenfassung von dem, was Sie geschrieben haben:',
-                'YES' => 'Ja',
-                'NO' => 'Nein'
-            ],
             'PLUGIN_REL_PAGES' => [
                 'PLUGIN_STATUS' => 'Plugin-Status',
                 'BASICS' => 'Grundeinstellungen',
@@ -1338,6 +1314,30 @@ return [
                 'ADVANCED' => 'Erweitert',
                 'TAXONOMY_SCORE_SCALE' => 'Taxonomie-Taxonomie Bewertungsskala',
                 'CONTENT_SCORE_SCALE' => 'Taxonomie-Inhalt Bewertungsskala'
+            ],
+            'PLUGIN_FORM' => [
+                'NOT_VALIDATED' => 'Formularwerte nicht gültig. Für ein oder mehrere erforderliche Felder fehlen Werte.',
+                'NONCE_NOT_VALIDATED' => 'Ups, es gibt da ein Problem. Eingabewerte bitte noch mal prüfen und das Formular erneut absenden.',
+                'FILES' => 'Dateien hochladen',
+                'ALLOW_MULTIPLE' => 'Erlaube mehr als eine Datei',
+                'ALLOW_MULTIPLE_HELP' => 'Erlaubt es, mehr als eine Datei zum Hochladen auszuwählen.',
+                'DESTINATION' => 'Ziel',
+                'DESTINATION_HELP' => 'Das Ziel, wohin die Dateien hochgeladen werden sollen.',
+                'ACCEPT' => 'Erlaube MIME-Typen',
+                'ACCEPT_HELP' => 'Eine Liste von MIME-Typen, die hochgeladen werden dürfen.',
+                'ERROR_VALIDATING_CAPTCHA' => 'Die Überprüfung des Captcha ist fehlgeschlagen.',
+                'DATA_SUMMARY' => 'Hier die Zusammenfassung von dem, was Sie geschrieben haben:',
+                'YES' => 'Ja',
+                'NO' => 'Nein'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Fehler',
+                'ERROR_MESSAGE' => 'Uuups. Sieht aus als ob diese Seite nicht existiert.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'E-Mail ist nicht konfiguriert',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Bitte konfigurieren sie eine \'An\' (\'to\') Adresse in den Email-Plugin-Einstellungen oder im Formular.',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Bitte konfigurieren sie eine \'Von\' (\'from\') Adresse in den Email-Plugin-Einstellungen oder im Formular.'
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Suche …',
@@ -2316,17 +2316,6 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'UPLOADS_DANGEROUS_EXTENSIONS' => 'Dangerous Extensions',
                 'UPLOADS_DANGEROUS_EXTENSIONS_HELP' => 'Block these extensions from being uploaded no matter the accepted MIME types'
             ],
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'Email not configured',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Please configure a \'to\' address in the Email Plugin settings, or in the form',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Please configure a \'from\' address in the Email Plugin settings, or in the form',
-                'TEST_EMAIL_BODY' => '<h1>Testing Email</h1><p>This test email has been sent based on the following configuration:</p>  <p><pre>%1$s</pre></p>',
-                'EMAIL_FOOTER' => 'GetGrav.org'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Error',
-                'ERROR_MESSAGE' => 'Woops. Looks like this page doesn\'t exist.'
-            ],
             'PLUGINS' => [
                 'EXTERNAL_LINKS' => [
                     'PLUGIN_NAME' => 'External Links',
@@ -2542,6 +2531,36 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                     ]
                 ]
             ],
+            'PLUGIN_REL_PAGES' => [
+                'BASICS' => 'Basic Settings',
+                'LIMIT' => 'Limit',
+                'LIMIT_HELP' => 'The number of related pages to display',
+                'ORDER' => 'Order',
+                'ORDER_BY' => 'Ordery by',
+                'SHOW_SCORE' => 'Show score',
+                'SHOW_SCORE_HELP' => 'Toggle to determine if scores should be displayed in output',
+                'ITEMS' => 'Items',
+                'ITEMS_HELP' => 'Supports `@self`, `@page`, and `@taxonomy` based collections',
+                'PAGE_IN_FILTER' => 'Page \'in\' filter',
+                'PAGE_IN_FILTER_HELP' => 'Enabled if the current page must be in the filtered collection',
+                'EXPLICIT_PROCESS' => 'Process explicit pages',
+                'EXPLICIT_PROCESS_HELP' => 'Enable this explicit page matching',
+                'EXPLICIT_SCORE' => 'Explicit page score',
+                'EXPLICIT_SCORE_HELP' => 'A score ranging from (0 - 100) to give explicit pages a weight',
+                'TAXONOMY_MATCH' => 'Taxonomy Type Matching',
+                'TAXONOMY' => 'Taxonomy',
+                'TAXONOMY_HELP' => 'Which taxonomy type to use for page matching, supports strings or YAML array of multiple taxonomy types',
+                'TAXONOMY_TAXONOMY_PROCESS' => 'Taxonomy-taxonomy',
+                'TAXONOMY_TAXONOMY_PROCESS_HELP' => 'Enable taxonomy to taxonomy matching',
+                'TAXONOMY_CONTENT_PROCESS' => 'Taxonomy-content',
+                'TAXONOMY_CONTENT_PROCESS_HELP' => 'Enable taxonomy to Content matching',
+                'CONTENT_MATCH' => 'Content Type Matching',
+                'CONTENT_PROCESS' => 'Content-content',
+                'CONTENT_PROCESS_HELP' => 'Enable content to content matching (NOTE: Disable if you have lots of content)',
+                'ADVANCED' => 'Advanced',
+                'TAXONOMY_SCORE_SCALE' => 'Taxonomy-taxonomy score scale',
+                'CONTENT_SCORE_SCALE' => 'Taxonomy-content score scale'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Form not validated. One or more required fields are missing.',
                 'NONCE_NOT_VALIDATED' => 'Oops there was a problem, please check your input and submit the form again.',
@@ -2597,35 +2616,16 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'RESOLUTION_MIN' => 'The {{attr}} was less than the minimum of {{min}}px <br />',
                 'RESOLUTION_MAX' => 'The {{attr}} was more than the maximum of {{max}}px <br />'
             ],
-            'PLUGIN_REL_PAGES' => [
-                'BASICS' => 'Basic Settings',
-                'LIMIT' => 'Limit',
-                'LIMIT_HELP' => 'The number of related pages to display',
-                'ORDER' => 'Order',
-                'ORDER_BY' => 'Ordery by',
-                'SHOW_SCORE' => 'Show score',
-                'SHOW_SCORE_HELP' => 'Toggle to determine if scores should be displayed in output',
-                'ITEMS' => 'Items',
-                'ITEMS_HELP' => 'Supports `@self`, `@page`, and `@taxonomy` based collections',
-                'PAGE_IN_FILTER' => 'Page \'in\' filter',
-                'PAGE_IN_FILTER_HELP' => 'Enabled if the current page must be in the filtered collection',
-                'EXPLICIT_PROCESS' => 'Process explicit pages',
-                'EXPLICIT_PROCESS_HELP' => 'Enable this explicit page matching',
-                'EXPLICIT_SCORE' => 'Explicit page score',
-                'EXPLICIT_SCORE_HELP' => 'A score ranging from (0 - 100) to give explicit pages a weight',
-                'TAXONOMY_MATCH' => 'Taxonomy Type Matching',
-                'TAXONOMY' => 'Taxonomy',
-                'TAXONOMY_HELP' => 'Which taxonomy type to use for page matching, supports strings or YAML array of multiple taxonomy types',
-                'TAXONOMY_TAXONOMY_PROCESS' => 'Taxonomy-taxonomy',
-                'TAXONOMY_TAXONOMY_PROCESS_HELP' => 'Enable taxonomy to taxonomy matching',
-                'TAXONOMY_CONTENT_PROCESS' => 'Taxonomy-content',
-                'TAXONOMY_CONTENT_PROCESS_HELP' => 'Enable taxonomy to Content matching',
-                'CONTENT_MATCH' => 'Content Type Matching',
-                'CONTENT_PROCESS' => 'Content-content',
-                'CONTENT_PROCESS_HELP' => 'Enable content to content matching (NOTE: Disable if you have lots of content)',
-                'ADVANCED' => 'Advanced',
-                'TAXONOMY_SCORE_SCALE' => 'Taxonomy-taxonomy score scale',
-                'CONTENT_SCORE_SCALE' => 'Taxonomy-content score scale'
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Error',
+                'ERROR_MESSAGE' => 'Woops. Looks like this page doesn\'t exist.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'Email not configured',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Please configure a \'to\' address in the Email Plugin settings, or in the form',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Please configure a \'from\' address in the Email Plugin settings, or in the form',
+                'TEST_EMAIL_BODY' => '<h1>Testing Email</h1><p>This test email has been sent based on the following configuration:</p>  <p><pre>%1$s</pre></p>',
+                'EMAIL_FOOTER' => 'GetGrav.org'
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Search …',
@@ -3593,9 +3593,35 @@ Tienes **2FA** habilitado en esta cuenta. Por favor usa tu aplicación **2FA** p
                 '2FA_SECRET_HELP' => 'Escanea este código QR en tu [Aplicación de Autenticador](https://learn.getgrav.org/admin-panel/2fa#apps). También es una buena idea hacer un respaldo del secreto en una ubicación segura, para el caso que necesites reinstalar tu aplicación. Revisa la [Documentación de Grav](https://learn.getgrav.org/admin-panel/2fa) para mas información ',
                 '2FA_REGENERATE' => 'Regenerar'
             ],
-            'PLUGIN_EMAIL' => [
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Por favor configura una dirección de \'remitente\' en la configuración del Plugin de Email o en el formulario',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Por favor configura una dirección de \'destinatario\' en la configuración del Plugin de Email o en el formulario'
+            'PLUGIN_REL_PAGES' => [
+                'BASICS' => 'Ajustes básicos',
+                'LIMIT' => 'Límite',
+                'LIMIT_HELP' => 'La cantidad de páginas relacionas que se mostrarán',
+                'ORDER' => 'Ordenar',
+                'ORDER_BY' => 'Ordenar por',
+                'SHOW_SCORE' => 'Mostrar puntos',
+                'SHOW_SCORE_HELP' => 'Indica si se mostrará la puntuación',
+                'ITEMS' => 'Elementos',
+                'ITEMS_HELP' => 'Proporciona colecciones basadas en `@self`, `@page` y `@taxonomy`',
+                'PAGE_IN_FILTER' => 'Página \'en\' filtro',
+                'PAGE_IN_FILTER_HELP' => 'Activado si la página actual debe estar en la colección filtrada',
+                'EXPLICIT_PROCESS' => 'Procesar páginas explícitas',
+                'EXPLICIT_PROCESS_HELP' => 'Activa la relación de páginas explícitas',
+                'EXPLICIT_SCORE' => 'Puntuación de páginas explícitas',
+                'EXPLICIT_SCORE_HELP' => 'Una puntuación (entre 0 y 100) para dar un peso las páginas explícitas',
+                'TAXONOMY_MATCH' => 'Comparación de Tipo de taxonomía',
+                'TAXONOMY' => 'Taxonomía',
+                'TAXONOMY_HELP' => 'Qué tipo de taxonomía se usará para relacionar páginas',
+                'TAXONOMY_TAXONOMY_PROCESS' => 'Taxonomía-taxonomía',
+                'TAXONOMY_TAXONOMY_PROCESS_HELP' => 'Activa relación de taxonomía a taxonomía',
+                'TAXONOMY_CONTENT_PROCESS' => 'Taxonomía-contenido',
+                'TAXONOMY_CONTENT_PROCESS_HELP' => 'Activa relación de taxonomía a contenido',
+                'CONTENT_MATCH' => 'Relación de tipo de contenido',
+                'CONTENT_PROCESS' => 'Contenido-contenido',
+                'CONTENT_PROCESS_HELP' => 'Activa relación de contenido a contenido (NOTA: Desactive esto si tiene mucho contenido)',
+                'ADVANCED' => 'Avanzado',
+                'TAXONOMY_SCORE_SCALE' => 'Escala de puntuación Taxonomía-taxonomía',
+                'CONTENT_SCORE_SCALE' => 'Escala de puntuación Taxonomía-contenido'
             ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Falló la validación del formulario. Uno o más campos obligatorios no fueron cubiertos.',
@@ -3652,35 +3678,9 @@ Tienes **2FA** habilitado en esta cuenta. Por favor usa tu aplicación **2FA** p
                 'RESOLUTION_MIN' => '{{attr}} fué menor que el mínimo {{min}}px <br />',
                 'RESOLUTION_MAX' => '{{attr}} fué mayor que el máximo {{max}}px <br />'
             ],
-            'PLUGIN_REL_PAGES' => [
-                'BASICS' => 'Ajustes básicos',
-                'LIMIT' => 'Límite',
-                'LIMIT_HELP' => 'La cantidad de páginas relacionas que se mostrarán',
-                'ORDER' => 'Ordenar',
-                'ORDER_BY' => 'Ordenar por',
-                'SHOW_SCORE' => 'Mostrar puntos',
-                'SHOW_SCORE_HELP' => 'Indica si se mostrará la puntuación',
-                'ITEMS' => 'Elementos',
-                'ITEMS_HELP' => 'Proporciona colecciones basadas en `@self`, `@page` y `@taxonomy`',
-                'PAGE_IN_FILTER' => 'Página \'en\' filtro',
-                'PAGE_IN_FILTER_HELP' => 'Activado si la página actual debe estar en la colección filtrada',
-                'EXPLICIT_PROCESS' => 'Procesar páginas explícitas',
-                'EXPLICIT_PROCESS_HELP' => 'Activa la relación de páginas explícitas',
-                'EXPLICIT_SCORE' => 'Puntuación de páginas explícitas',
-                'EXPLICIT_SCORE_HELP' => 'Una puntuación (entre 0 y 100) para dar un peso las páginas explícitas',
-                'TAXONOMY_MATCH' => 'Comparación de Tipo de taxonomía',
-                'TAXONOMY' => 'Taxonomía',
-                'TAXONOMY_HELP' => 'Qué tipo de taxonomía se usará para relacionar páginas',
-                'TAXONOMY_TAXONOMY_PROCESS' => 'Taxonomía-taxonomía',
-                'TAXONOMY_TAXONOMY_PROCESS_HELP' => 'Activa relación de taxonomía a taxonomía',
-                'TAXONOMY_CONTENT_PROCESS' => 'Taxonomía-contenido',
-                'TAXONOMY_CONTENT_PROCESS_HELP' => 'Activa relación de taxonomía a contenido',
-                'CONTENT_MATCH' => 'Relación de tipo de contenido',
-                'CONTENT_PROCESS' => 'Contenido-contenido',
-                'CONTENT_PROCESS_HELP' => 'Activa relación de contenido a contenido (NOTA: Desactive esto si tiene mucho contenido)',
-                'ADVANCED' => 'Avanzado',
-                'TAXONOMY_SCORE_SCALE' => 'Escala de puntuación Taxonomía-taxonomía',
-                'CONTENT_SCORE_SCALE' => 'Escala de puntuación Taxonomía-contenido'
+            'PLUGIN_EMAIL' => [
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Por favor configura una dirección de \'remitente\' en la configuración del Plugin de Email o en el formulario',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Por favor configura una dirección de \'destinatario\' en la configuración del Plugin de Email o en el formulario'
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Buscar …',
@@ -4570,17 +4570,6 @@ Ruta: `%2$s`
                 '2FA_SECRET_HELP' => 'Scannez ce code QR dans votre [app d\'authentification](https://learn.getgrav.org/admin-panel/2fa#apps). Il est également conseillé de sauvegarder le code secret dans un emplacement sûr, au cas où vous deviez réinstaller l\'app. Consultez les [aides Grav](https://learn.getgrav.org/admin-panel/2fa) pour plus d\'informations ',
                 '2FA_REGENERATE' => 'Régénérer'
             ],
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'L’e-mail n’est pas configuré',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Veuillez configurer une adresse de \'destinataire\' dans les paramètres du Plugin ou dans le formulaire.',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Veuillez configurer une adresse \'d\'expéditeur\' dans les paramètres du Plugin ou dans le formulaire.',
-                'TEST_EMAIL_BODY' => '<h1>E-mail de test</h1><p>Cet e-mail de test est basé sur la configuration suivante :</p>  <p><pre>%1$s</pre></p>',
-                'EMAIL_FOOTER' => 'GetGrav.org'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Erreur',
-                'ERROR_MESSAGE' => 'Oups. Il semble que cette page n’existe pas.'
-            ],
             'PLUGINS' => [
                 'EXTERNAL_LINKS' => [
                     'PLUGIN_NAME' => 'Liens externes',
@@ -4623,6 +4612,36 @@ Ruta: `%2$s`
                     'MODE_PASSIVE' => 'Passif - Analyser les liens mais ne pas appliquer les classes CSS'
                 ]
             ],
+            'PLUGIN_REL_PAGES' => [
+                'BASICS' => 'Réglages de base',
+                'LIMIT' => 'Limite',
+                'LIMIT_HELP' => 'Le nombre de pages en relation à afficher',
+                'ORDER' => 'Classement',
+                'ORDER_BY' => 'Classement par',
+                'SHOW_SCORE' => 'Afficher le score',
+                'SHOW_SCORE_HELP' => 'Activer/désactiver afin de déterminer si les scores doivent être affichés en sortie',
+                'ITEMS' => 'Éléments',
+                'ITEMS_HELP' => 'Prise en charge des collections basées sur `@self`, `@page` et `@taxonomy`',
+                'PAGE_IN_FILTER' => 'Page \'dans\' le filtre',
+                'PAGE_IN_FILTER_HELP' => 'Activer si la page actuelle doit être présente dans la collection filtrée',
+                'EXPLICIT_PROCESS' => 'Traiter les pages explicites',
+                'EXPLICIT_PROCESS_HELP' => 'Activer la correspondance explicite pour cette page',
+                'EXPLICIT_SCORE' => 'Score explicite de la page',
+                'EXPLICIT_SCORE_HELP' => 'Un score compris entre (0 - 100) pour rendre une page explicite',
+                'TAXONOMY_MATCH' => 'Correspondance par type de taxonomie',
+                'TAXONOMY' => 'Taxonomie',
+                'TAXONOMY_HELP' => 'Quel type de taxonomie utiliser pour la correspondance des pages',
+                'TAXONOMY_TAXONOMY_PROCESS' => 'Taxonomie-taxonomie',
+                'TAXONOMY_TAXONOMY_PROCESS_HELP' => 'Activer la taxonomie pour la correspondance de taxonomie',
+                'TAXONOMY_CONTENT_PROCESS' => 'Taxonomie-contenu',
+                'TAXONOMY_CONTENT_PROCESS_HELP' => 'Activer la taxonomie pour la correspondance de contenu',
+                'CONTENT_MATCH' => 'Correspondance par type de contenu',
+                'CONTENT_PROCESS' => 'Contenu-contenu',
+                'CONTENT_PROCESS_HELP' => 'Activer la correspondance de contenu (NOTE : désactivez si vous avez beaucoup de contenu)',
+                'ADVANCED' => 'Avancés',
+                'TAXONOMY_SCORE_SCALE' => 'Taxonomie-niveau de score de taxonomie',
+                'CONTENT_SCORE_SCALE' => 'Taxonomie-niveau de score de contenu'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formulaire non validé. Un ou plusieurs champs obligatoires sont manquants.',
                 'NONCE_NOT_VALIDATED' => 'Oups, un problème est survenu. Veuillez vérifier votre saisie et soumettre à nouveau le formulaire.',
@@ -4658,35 +4677,16 @@ Ruta: `%2$s`
                 'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Êtes-vous sûr de vouloir supprimer ce fichier ?',
                 'DROPZONE_RESPONSE_ERROR' => 'Le serveur a répondu avec le code {{statusCode}}.'
             ],
-            'PLUGIN_REL_PAGES' => [
-                'BASICS' => 'Réglages de base',
-                'LIMIT' => 'Limite',
-                'LIMIT_HELP' => 'Le nombre de pages en relation à afficher',
-                'ORDER' => 'Classement',
-                'ORDER_BY' => 'Classement par',
-                'SHOW_SCORE' => 'Afficher le score',
-                'SHOW_SCORE_HELP' => 'Activer/désactiver afin de déterminer si les scores doivent être affichés en sortie',
-                'ITEMS' => 'Éléments',
-                'ITEMS_HELP' => 'Prise en charge des collections basées sur `@self`, `@page` et `@taxonomy`',
-                'PAGE_IN_FILTER' => 'Page \'dans\' le filtre',
-                'PAGE_IN_FILTER_HELP' => 'Activer si la page actuelle doit être présente dans la collection filtrée',
-                'EXPLICIT_PROCESS' => 'Traiter les pages explicites',
-                'EXPLICIT_PROCESS_HELP' => 'Activer la correspondance explicite pour cette page',
-                'EXPLICIT_SCORE' => 'Score explicite de la page',
-                'EXPLICIT_SCORE_HELP' => 'Un score compris entre (0 - 100) pour rendre une page explicite',
-                'TAXONOMY_MATCH' => 'Correspondance par type de taxonomie',
-                'TAXONOMY' => 'Taxonomie',
-                'TAXONOMY_HELP' => 'Quel type de taxonomie utiliser pour la correspondance des pages',
-                'TAXONOMY_TAXONOMY_PROCESS' => 'Taxonomie-taxonomie',
-                'TAXONOMY_TAXONOMY_PROCESS_HELP' => 'Activer la taxonomie pour la correspondance de taxonomie',
-                'TAXONOMY_CONTENT_PROCESS' => 'Taxonomie-contenu',
-                'TAXONOMY_CONTENT_PROCESS_HELP' => 'Activer la taxonomie pour la correspondance de contenu',
-                'CONTENT_MATCH' => 'Correspondance par type de contenu',
-                'CONTENT_PROCESS' => 'Contenu-contenu',
-                'CONTENT_PROCESS_HELP' => 'Activer la correspondance de contenu (NOTE : désactivez si vous avez beaucoup de contenu)',
-                'ADVANCED' => 'Avancés',
-                'TAXONOMY_SCORE_SCALE' => 'Taxonomie-niveau de score de taxonomie',
-                'CONTENT_SCORE_SCALE' => 'Taxonomie-niveau de score de contenu'
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Erreur',
+                'ERROR_MESSAGE' => 'Oups. Il semble que cette page n’existe pas.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'L’e-mail n’est pas configuré',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Veuillez configurer une adresse de \'destinataire\' dans les paramètres du Plugin ou dans le formulaire.',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Veuillez configurer une adresse \'d\'expéditeur\' dans les paramètres du Plugin ou dans le formulaire.',
+                'TEST_EMAIL_BODY' => '<h1>E-mail de test</h1><p>Cet e-mail de test est basé sur la configuration suivante :</p>  <p><pre>%1$s</pre></p>',
+                'EMAIL_FOOTER' => 'GetGrav.org'
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Recherche …',
@@ -5454,15 +5454,6 @@ Path: `%2$s`
                 '2FA_CODE_INPUT' => '000000',
                 '2FA_REGENERATE' => 'Ponovno stvori'
             ],
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'Email nije konfiguriran',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurirajte \'za\' (\'to\') adresu u postavkama Email dodatka ili u obrascu',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurirajte \'od\' (\'from\') adresu u postavkama Email dodatka ili u obrascu'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Greška',
-                'ERROR_MESSAGE' => 'Uups. Izgleda da ova stranica ne postoji.'
-            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formular nije validiran. Jedan ili više traženih polja nedostaju.',
                 'NONCE_NOT_VALIDATED' => 'Ups, došlo je do problema, molimo provjerite svoj unos i pokušajte opet.',
@@ -5473,6 +5464,15 @@ Path: `%2$s`
                 'ACCEPT' => 'Dopušteni MIME Tipovi',
                 'ACCEPT_HELP' => 'Lista dopuštenih MIME Tipova koji su dozvoljeni za upload',
                 'ERROR_VALIDATING_CAPTCHA' => 'Greška pri validiranju Captcha'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Greška',
+                'ERROR_MESSAGE' => 'Uups. Izgleda da ova stranica ne postoji.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'Email nije konfiguriran',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurirajte \'za\' (\'to\') adresu u postavkama Email dodatka ili u obrascu',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurirajte \'od\' (\'from\') adresu u postavkama Email dodatka ili u obrascu'
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Traži …',
@@ -8074,34 +8074,6 @@ Aveți **2FA** activată pentru acest cont. Vă rugăm folosiți aplicația pent
                 '2FA_SECRET_HELP' => 'Scanați acest cod QR cu [aplicația de autentificare](https://learn.getgrav.org/admin-panel/2fa#apps). De asemenea este o idee bună să salvați secretul într-o locație sigură, în cazul in care aveți nevoie să reinstalați aplicația de autentificare. Verificați [documentația Grav](https://learn.getgrav.org/admin-panel/2fa) pentru mai multe informații ',
                 '2FA_REGENERATE' => 'Regenerează'
             ],
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'Adresa de email nu este configurată',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Vă rugam setați o adresă \'către\' în setările modulului Email sau în formular',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Vă rugam setați o adresă \'de la\' în setările modulului Email sau în formular'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Eroare',
-                'ERROR_MESSAGE' => 'Ooops. Se pare că pagina nu există.'
-            ],
-            'PLUGIN_FORM' => [
-                'NOT_VALIDATED' => 'Formularul nu a fost validat. Unul sau mai multe câmpuri sunt goale.',
-                'NONCE_NOT_VALIDATED' => 'Oops a apărut o problemă, vă rugăm verificați datele introduse și trimiteți formularul din nou.',
-                'FILES' => 'Încărcare fișiere',
-                'ALLOW_MULTIPLE' => 'Permiteți mai multe fișiere',
-                'ALLOW_MULTIPLE_HELP' => 'Vă permite să selectați mai multe fișiere pentru încărcare.',
-                'DESTINATION' => 'Destinație',
-                'DESTINATION_HELP' => 'Locația unde vor fi încărcate fișierele.',
-                'ACCEPT' => 'Permite tipuri MIME ',
-                'ACCEPT_HELP' => 'O listă cu tipuri MIME care sunt permise la încărcare.',
-                'ERROR_VALIDATING_CAPTCHA' => 'Eroare la validarea Captcha.',
-                'DATA_SUMMARY' => 'Mai jos aveți un rezumat al mesajului pe care ni l-ați trimis:',
-                'NO_FORM_DATA' => 'Nu e disponibilă nici o dată pentru formular',
-                'RECAPTCHA' => 'ReCaptcha',
-                'RECAPTCHA_SITE_KEY' => 'Cheia pentru Site',
-                'RECAPTCHA_SITE_KEY_HELP' => 'Pentru mai multe detalii vă rugăm vizitați https://developers.google.com/recaptcha',
-                'RECAPTCHA_SECRET_KEY' => 'Cheia secretă pentru Site',
-                'RECAPTCHA_SECRET_KEY_HELP' => 'Pentru mai multe detalii vă rugăm vizitați  https://developers.google.com/recaptcha'
-            ],
             'PLUGINS' => [
                 'JS_COMMENTS' => [
                     'PLUGIN_NAME' => 'JSComments',
@@ -8245,6 +8217,34 @@ Aveți **2FA** activată pentru acest cont. Vă rugăm folosiți aplicația pent
                 'ADVANCED' => 'Avansat',
                 'TAXONOMY_SCORE_SCALE' => 'Scorul scalei Taxonomie-taxonomie',
                 'CONTENT_SCORE_SCALE' => 'Scorul scalei Taxonomie-conținut'
+            ],
+            'PLUGIN_FORM' => [
+                'NOT_VALIDATED' => 'Formularul nu a fost validat. Unul sau mai multe câmpuri sunt goale.',
+                'NONCE_NOT_VALIDATED' => 'Oops a apărut o problemă, vă rugăm verificați datele introduse și trimiteți formularul din nou.',
+                'FILES' => 'Încărcare fișiere',
+                'ALLOW_MULTIPLE' => 'Permiteți mai multe fișiere',
+                'ALLOW_MULTIPLE_HELP' => 'Vă permite să selectați mai multe fișiere pentru încărcare.',
+                'DESTINATION' => 'Destinație',
+                'DESTINATION_HELP' => 'Locația unde vor fi încărcate fișierele.',
+                'ACCEPT' => 'Permite tipuri MIME ',
+                'ACCEPT_HELP' => 'O listă cu tipuri MIME care sunt permise la încărcare.',
+                'ERROR_VALIDATING_CAPTCHA' => 'Eroare la validarea Captcha.',
+                'DATA_SUMMARY' => 'Mai jos aveți un rezumat al mesajului pe care ni l-ați trimis:',
+                'NO_FORM_DATA' => 'Nu e disponibilă nici o dată pentru formular',
+                'RECAPTCHA' => 'ReCaptcha',
+                'RECAPTCHA_SITE_KEY' => 'Cheia pentru Site',
+                'RECAPTCHA_SITE_KEY_HELP' => 'Pentru mai multe detalii vă rugăm vizitați https://developers.google.com/recaptcha',
+                'RECAPTCHA_SECRET_KEY' => 'Cheia secretă pentru Site',
+                'RECAPTCHA_SECRET_KEY_HELP' => 'Pentru mai multe detalii vă rugăm vizitați  https://developers.google.com/recaptcha'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Eroare',
+                'ERROR_MESSAGE' => 'Ooops. Se pare că pagina nu există.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'Adresa de email nu este configurată',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Vă rugam setați o adresă \'către\' în setările modulului Email sau în formular',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Vă rugam setați o adresă \'de la\' în setările modulului Email sau în formular'
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Caută …',
@@ -9158,17 +9158,6 @@ Calea: `%2$s`
                 '2FA_ENABLED' => '2FA включен',
                 '2FA_SECRET_HELP' => 'Сканируйте этот QR-код в свое [приложение аутентификации] (https://learn.getgrav.org/admin-panel/2fa#apps). Также рекомендуется резервировать секрет в безопасном месте, если вам нужно переустановить приложение. Для получения дополнительной информации просмотрите документы [Grav docs] (https://learn.getgrav.org/admin-panel/2fa) '
             ],
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'Электронная почта не настроена',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Пожалуйста настройте адрес получателя (\'to\') в настройках плагина Email Plugin, или на форме',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Пожалуйста настройте адрес отправителя (\'from\') в настройках плагина Email Plugin, или на форме',
-                'TEST_EMAIL_BODY' => '<h1>Тестирование электронной почты</h1><p>Это тестовое письмо отправлено на основе следующей конфигурации:</p>  <p><pre>%1$s</pre></p>',
-                'EMAIL_FOOTER' => 'GetGrav.org'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Ошибка',
-                'ERROR_MESSAGE' => 'Упс. Похоже, этой страницы не существует.'
-            ],
             'PLUGINS' => [
                 'EXTERNAL_LINKS' => [
                     'PLUGIN_NAME' => 'Внешние ссылки',
@@ -9371,6 +9360,17 @@ Calea: `%2$s`
                 'AVOID_OVERWRITING_HELP' => 'Не допускать перезаписи файлов с тем же именем. Будет добавлен префикс с датой',
                 'RANDOM_NAME' => 'Случайное имя',
                 'RANDOM_NAME_HELP' => 'Создавать случайное строковое имя из 15 символов для загруженных файлов'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Ошибка',
+                'ERROR_MESSAGE' => 'Упс. Похоже, этой страницы не существует.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'Электронная почта не настроена',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Пожалуйста настройте адрес получателя (\'to\') в настройках плагина Email Plugin, или на форме',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Пожалуйста настройте адрес отправителя (\'from\') в настройках плагина Email Plugin, или на форме',
+                'TEST_EMAIL_BODY' => '<h1>Тестирование электронной почты</h1><p>Это тестовое письмо отправлено на основе следующей конфигурации:</p>  <p><pre>%1$s</pre></p>',
+                'EMAIL_FOOTER' => 'GetGrav.org'
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Найти …',
@@ -11892,10 +11892,6 @@ Máte na svém účtu aktivováno **dvoufaktorové ověřování**. Pro dokonče
                 '2FA_SECRET_HELP' => 'Naskenujte tento QR kód do vaší [Ověřovací aplikace](https://learn.getgrav.org/admin-panel/2fa#apps). Dobrý nápad je také zazálohovat tajný kód na bezpečné místo, pokud bude zapotřebí aplikaci přeinstalovat.  Pro více informací se podívejte do [Grav dokumentace](https://learn.getgrav.org/admin-panel/2fa) ',
                 '2FA_REGENERATE' => 'Přegenerovat'
             ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Chyba',
-                'ERROR_MESSAGE' => 'A jéje. Vypadá to, že hledaná stránka tu není.'
-            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formulář nebyl ověřen. Chybí jedno nebo více povinných polí.',
                 'NONCE_NOT_VALIDATED' => 'Jejda, došlo k problému, zkontrolujte vstupní stránku a znovu odešlete formulář.',
@@ -11932,6 +11928,10 @@ Máte na svém účtu aktivováno **dvoufaktorové ověřování**. Pro dokonče
                 'DROPZONE_RESPONSE_ERROR' => 'Server vrátil chybový kód: {{statusCode}}.',
                 'YES' => 'Ano',
                 'NO' => 'Ne'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Chyba',
+                'ERROR_MESSAGE' => 'A jéje. Vypadá to, že hledaná stránka tu není.'
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Vyhledat …',
@@ -12812,13 +12812,13 @@ Du har **2FA** aktiveret for denne konto. Benyt venligst din **2FA**-app til at 
                 '2FA_SECRET_HELP' => 'Skan denne QR-kode ind i din [Autentificering-app] (https://learn.getgrav.org/admin-panel/2fa#apps). Det er også en god idé at sikkerhedskopiere hemmelighed til en sikkert placering, i tilfælde af at du skal geninstallere din app.  Tjek [Grav docs] (https://learn.getgrav.org/admin-panel/2fa) for yderligere oplysninger ',
                 '2FA_REGENERATE' => 'Regenerér'
             ],
-            'PLUGIN_EMAIL' => [
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurere venligst en \'til\' email adresse i Email Plugin indstillingerne eller her i formularen',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurere venligst en \'fra\' email adresse i Email Plugin indstillingerne eller her i formularen'
-            ],
             'PLUGIN_ERROR' => [
                 'ERROR' => 'Fejl',
                 'ERROR_MESSAGE' => 'Ups. Det ser ud til at siden ikke eksisterer.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurere venligst en \'til\' email adresse i Email Plugin indstillingerne eller her i formularen',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurere venligst en \'fra\' email adresse i Email Plugin indstillingerne eller her i formularen'
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Søg …',
@@ -16483,51 +16483,6 @@ La **2FA** è abilitata per questo account. Si prega di utilizzare la vostra app
                 '2FA_SECRET_HELP' => 'Scandisci questo codice QR nella tua [Authenticator App](https://learn.getgrav.org/admin-panel/2fa#apps). È inoltre cosa buona fare il backup del Segreto in un luogo sicuro, nel caso in cui fosse necessario reinstallare la vostra app.  Controllare i [Grav docs] (https://learn.getgrav.org/admin-panel/2fa) per ulteriori informazioni ',
                 '2FA_REGENERATE' => 'Rigenera'
             ],
-            'PLUGIN_EMAIL' => [
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Per favore, configura l\'indirizzo di destinazione (\'to\') nella configurazione del Plugin Email, oppure direttamente nella form.',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Per favore, configura l\'indirizzo di provenienza (\'from\') nella configurazione del Plugin Email, oppure direttamente nella form'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Errore',
-                'ERROR_MESSAGE' => 'Ooops. A quanto pare, questa pagina non esiste.'
-            ],
-            'PLUGIN_FORM' => [
-                'NOT_VALIDATED' => 'Il Form risulta invalido. Uno o più campi risultano omessi.',
-                'NONCE_NOT_VALIDATED' => 'Oops è stato riscontrato un errore, si prega di ricontrollare i dati inseriti e provare di nuovo.',
-                'FILES' => 'Invio dei Files',
-                'ALLOW_MULTIPLE' => 'Consenti più di un file',
-                'ALLOW_MULTIPLE_HELP' => 'Permette la selezione di più di un file per l\'upload',
-                'DESTINATION' => 'Destinazione',
-                'DESTINATION_HELP' => 'La destinazione dove i files vengono uploadati',
-                'ACCEPT' => 'Tipi di MIME Concessi',
-                'ACCEPT_HELP' => 'Una lista di tipi di MIME che sono permessi per l\'upload',
-                'ERROR_VALIDATING_CAPTCHA' => 'Errore durante la validazione del Captcha',
-                'DATA_SUMMARY' => 'Ecco il riassunto di ciò che ci hai scritto:',
-                'NO_FORM_DATA' => 'Nessuna informazione disponibile',
-                'RECAPTCHA' => 'ReCaptcha',
-                'RECAPTCHA_SITE_KEY' => 'Site key',
-                'RECAPTCHA_SITE_KEY_HELP' => 'Per maggiori informazioni visita https://developers.google.com/recaptcha',
-                'RECAPTCHA_SECRET_KEY' => 'Chiave segreta',
-                'RECAPTCHA_SECRET_KEY_HELP' => 'Per maggiori informazioni visita https://developers.google.com/recaptcha',
-                'GENERAL' => 'Generale',
-                'USE_BUILT_IN_CSS' => 'Usa CSS incorporato',
-                'FILEUPLOAD_PREVENT_SELF' => 'Non si può usare "%s" fuori dalle pagine.',
-                'FILEUPLOAD_UNABLE_TO_UPLOAD' => 'Impossibile caricare il file %s: %s',
-                'FILEUPLOAD_UNABLE_TO_MOVE' => 'Impossibile muovere il file %s to "%s"',
-                'DROPZONE_CANCEL_UPLOAD' => 'Trasferimento annullato',
-                'DROPZONE_CANCEL_UPLOAD_CONFIRMATION' => 'Sei sicuro di voler cancellare questo trasferimento?',
-                'DROPZONE_DEFAULT_MESSAGE' => 'Trascina qui i tuoi file o <strong>clicca su quest\'area</strong>',
-                'DROPZONE_FALLBACK_MESSAGE' => 'Il tuo browser non supporta il trascinamento dei file per il trasferimento.',
-                'DROPZONE_FALLBACK_TEXT' => 'Utilizza il modulo di riserva qui sotto per caricare i tuoi file come ai vecchi tempi.',
-                'DROPZONE_FILE_TOO_BIG' => 'Il file è troppo grande ({{filesize}}MiB). Dimensione massima consentita: {{maxFilesize}}MiB.',
-                'DROPZONE_INVALID_FILE_TYPE' => 'Non puoi caricare questo tipo di file',
-                'DROPZONE_MAX_FILES_EXCEEDED' => 'Non puoi caricare ulteriori file, hai raggiunto il limite consentito.',
-                'DROPZONE_REMOVE_FILE' => 'Rimuovi il file',
-                'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Sei sicuro di voler eliminare questo file??',
-                'DROPZONE_RESPONSE_ERROR' => 'Il Server ha risposto con il codice {{statusCode}}.',
-                'YES' => 'Si',
-                'NO' => 'No'
-            ],
             'PLUGINS' => [
                 'JS_COMMENTS' => [
                     'PLUGIN_NAME' => 'JSComments',
@@ -16596,6 +16551,51 @@ La **2FA** è abilitata per questo account. Si prega di utilizzare la vostra app
                         ]
                     ]
                 ]
+            ],
+            'PLUGIN_FORM' => [
+                'NOT_VALIDATED' => 'Il Form risulta invalido. Uno o più campi risultano omessi.',
+                'NONCE_NOT_VALIDATED' => 'Oops è stato riscontrato un errore, si prega di ricontrollare i dati inseriti e provare di nuovo.',
+                'FILES' => 'Invio dei Files',
+                'ALLOW_MULTIPLE' => 'Consenti più di un file',
+                'ALLOW_MULTIPLE_HELP' => 'Permette la selezione di più di un file per l\'upload',
+                'DESTINATION' => 'Destinazione',
+                'DESTINATION_HELP' => 'La destinazione dove i files vengono uploadati',
+                'ACCEPT' => 'Tipi di MIME Concessi',
+                'ACCEPT_HELP' => 'Una lista di tipi di MIME che sono permessi per l\'upload',
+                'ERROR_VALIDATING_CAPTCHA' => 'Errore durante la validazione del Captcha',
+                'DATA_SUMMARY' => 'Ecco il riassunto di ciò che ci hai scritto:',
+                'NO_FORM_DATA' => 'Nessuna informazione disponibile',
+                'RECAPTCHA' => 'ReCaptcha',
+                'RECAPTCHA_SITE_KEY' => 'Site key',
+                'RECAPTCHA_SITE_KEY_HELP' => 'Per maggiori informazioni visita https://developers.google.com/recaptcha',
+                'RECAPTCHA_SECRET_KEY' => 'Chiave segreta',
+                'RECAPTCHA_SECRET_KEY_HELP' => 'Per maggiori informazioni visita https://developers.google.com/recaptcha',
+                'GENERAL' => 'Generale',
+                'USE_BUILT_IN_CSS' => 'Usa CSS incorporato',
+                'FILEUPLOAD_PREVENT_SELF' => 'Non si può usare "%s" fuori dalle pagine.',
+                'FILEUPLOAD_UNABLE_TO_UPLOAD' => 'Impossibile caricare il file %s: %s',
+                'FILEUPLOAD_UNABLE_TO_MOVE' => 'Impossibile muovere il file %s to "%s"',
+                'DROPZONE_CANCEL_UPLOAD' => 'Trasferimento annullato',
+                'DROPZONE_CANCEL_UPLOAD_CONFIRMATION' => 'Sei sicuro di voler cancellare questo trasferimento?',
+                'DROPZONE_DEFAULT_MESSAGE' => 'Trascina qui i tuoi file o <strong>clicca su quest\'area</strong>',
+                'DROPZONE_FALLBACK_MESSAGE' => 'Il tuo browser non supporta il trascinamento dei file per il trasferimento.',
+                'DROPZONE_FALLBACK_TEXT' => 'Utilizza il modulo di riserva qui sotto per caricare i tuoi file come ai vecchi tempi.',
+                'DROPZONE_FILE_TOO_BIG' => 'Il file è troppo grande ({{filesize}}MiB). Dimensione massima consentita: {{maxFilesize}}MiB.',
+                'DROPZONE_INVALID_FILE_TYPE' => 'Non puoi caricare questo tipo di file',
+                'DROPZONE_MAX_FILES_EXCEEDED' => 'Non puoi caricare ulteriori file, hai raggiunto il limite consentito.',
+                'DROPZONE_REMOVE_FILE' => 'Rimuovi il file',
+                'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Sei sicuro di voler eliminare questo file??',
+                'DROPZONE_RESPONSE_ERROR' => 'Il Server ha risposto con il codice {{statusCode}}.',
+                'YES' => 'Si',
+                'NO' => 'No'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Errore',
+                'ERROR_MESSAGE' => 'Ooops. A quanto pare, questa pagina non esiste.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Per favore, configura l\'indirizzo di destinazione (\'to\') nella configurazione del Plugin Email, oppure direttamente nella form.',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Per favore, configura l\'indirizzo di provenienza (\'from\') nella configurazione del Plugin Email, oppure direttamente nella form'
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Cerca …',
@@ -18643,6 +18643,36 @@ Path: `%2$s`
                 'CONTENT_PADDING' => 'Opvulling van inhoud',
                 'CONTENT_PADDING_HELP' => 'Uit- of aanzetten van content padding rond de content om meer ruimte te creëren'
             ],
+            'PLUGIN_REL_PAGES' => [
+                'BASICS' => 'Basisinstellingen',
+                'LIMIT' => 'Limiet',
+                'LIMIT_HELP' => 'Het aantal weer te geven gerelateerde pagina\'s',
+                'ORDER' => 'Volgorde',
+                'ORDER_BY' => 'Sorteer op',
+                'SHOW_SCORE' => 'Toon score',
+                'SHOW_SCORE_HELP' => 'Schakel om, om te bepalen of scores moeten worden getoond in de uitvoer',
+                'ITEMS' => 'Items',
+                'ITEMS_HELP' => 'Ondersteunt collecties gebaseerd op `@self`, `@page`, en `@taxonomy`',
+                'PAGE_IN_FILTER' => 'Pagina \'in\' filter',
+                'PAGE_IN_FILTER_HELP' => 'Ingeschakeld als de huidige pagina in de gefilterde collectie moet zijn opgenomen',
+                'EXPLICIT_PROCESS' => 'Verwerk expliciete pagina\'s',
+                'EXPLICIT_PROCESS_HELP' => 'Inschakelen van matchen van expliete pagina\'s',
+                'EXPLICIT_SCORE' => 'Expliciete paginascore',
+                'EXPLICIT_SCORE_HELP' => 'Een score van (0 - 100) om expliciete pagina\'s een gewicht te geven',
+                'TAXONOMY_MATCH' => 'Taxonomie Type Matching',
+                'TAXONOMY' => 'Taxonomie',
+                'TAXONOMY_HELP' => 'Welk taxonomie type te gebruiken voor paginamatching',
+                'TAXONOMY_TAXONOMY_PROCESS' => 'Taxonomie-taxonomie',
+                'TAXONOMY_TAXONOMY_PROCESS_HELP' => 'Inschakelen taxonomie met taxonomie matching',
+                'TAXONOMY_CONTENT_PROCESS' => 'Taxonomie-inhoud',
+                'TAXONOMY_CONTENT_PROCESS_HELP' => 'Inschakelen taxonomie met inhoud matching',
+                'CONTENT_MATCH' => 'Inhoud Type Matching',
+                'CONTENT_PROCESS' => 'Inhoud-inhoud',
+                'CONTENT_PROCESS_HELP' => 'Inschakelen inhoud met inhoud matching (N.B.: Uitschakelen als je veel inhoud hebt)',
+                'ADVANCED' => 'Geavanceerd',
+                'TAXONOMY_SCORE_SCALE' => 'Taxonomie-taxonomie score schaal',
+                'CONTENT_SCORE_SCALE' => 'Taxonomie-inhoud score schaal'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formulier niet gevalideerd. Een of meerdere verplichte velden ontbreken.',
                 'NONCE_NOT_VALIDATED' => 'Oeps er was een probleem, controleer je input en stuur het formulier opnieuw.',
@@ -18690,36 +18720,6 @@ Path: `%2$s`
                 'AVOID_OVERWRITING_HELP' => 'Voorkom dat bestanden met dezelfde naam worden overschreven. Datum prefix wordt toegevoegd',
                 'RANDOM_NAME' => 'Willekeurige naam',
                 'RANDOM_NAME_HELP' => 'Genereer een willekeurige naam van 15 karakters voor de geuploade bestanden'
-            ],
-            'PLUGIN_REL_PAGES' => [
-                'BASICS' => 'Basisinstellingen',
-                'LIMIT' => 'Limiet',
-                'LIMIT_HELP' => 'Het aantal weer te geven gerelateerde pagina\'s',
-                'ORDER' => 'Volgorde',
-                'ORDER_BY' => 'Sorteer op',
-                'SHOW_SCORE' => 'Toon score',
-                'SHOW_SCORE_HELP' => 'Schakel om, om te bepalen of scores moeten worden getoond in de uitvoer',
-                'ITEMS' => 'Items',
-                'ITEMS_HELP' => 'Ondersteunt collecties gebaseerd op `@self`, `@page`, en `@taxonomy`',
-                'PAGE_IN_FILTER' => 'Pagina \'in\' filter',
-                'PAGE_IN_FILTER_HELP' => 'Ingeschakeld als de huidige pagina in de gefilterde collectie moet zijn opgenomen',
-                'EXPLICIT_PROCESS' => 'Verwerk expliciete pagina\'s',
-                'EXPLICIT_PROCESS_HELP' => 'Inschakelen van matchen van expliete pagina\'s',
-                'EXPLICIT_SCORE' => 'Expliciete paginascore',
-                'EXPLICIT_SCORE_HELP' => 'Een score van (0 - 100) om expliciete pagina\'s een gewicht te geven',
-                'TAXONOMY_MATCH' => 'Taxonomie Type Matching',
-                'TAXONOMY' => 'Taxonomie',
-                'TAXONOMY_HELP' => 'Welk taxonomie type te gebruiken voor paginamatching',
-                'TAXONOMY_TAXONOMY_PROCESS' => 'Taxonomie-taxonomie',
-                'TAXONOMY_TAXONOMY_PROCESS_HELP' => 'Inschakelen taxonomie met taxonomie matching',
-                'TAXONOMY_CONTENT_PROCESS' => 'Taxonomie-inhoud',
-                'TAXONOMY_CONTENT_PROCESS_HELP' => 'Inschakelen taxonomie met inhoud matching',
-                'CONTENT_MATCH' => 'Inhoud Type Matching',
-                'CONTENT_PROCESS' => 'Inhoud-inhoud',
-                'CONTENT_PROCESS_HELP' => 'Inschakelen inhoud met inhoud matching (N.B.: Uitschakelen als je veel inhoud hebt)',
-                'ADVANCED' => 'Geavanceerd',
-                'TAXONOMY_SCORE_SCALE' => 'Taxonomie-taxonomie score schaal',
-                'CONTENT_SCORE_SCALE' => 'Taxonomie-inhoud score schaal'
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Zoeken …',
@@ -19462,10 +19462,6 @@ Masz na tym koncie włączone **2FA**. Użyj aplikacji od **2FA** i wprowadź ak
                 '2FA_SECRET_HELP' => 'Zeskanuj ten kod QR do swojej [aplikacji uwierzytelniającej](https://learn.getgrav.org/admin-panel/2fa#apps). Zrobienie kopii zapasowej sekretu w bezpiecznym miejscu jest także dobrym pomysłem, w przypadku konieczności reinstalacji aplikacji. Przeczytaj [dokumentację Grav](https://learn.getgrav.org/admin-panel/2fa), aby dowiedzieć się więcej.',
                 '2FA_REGENERATE' => 'Zregeneruj'
             ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Błąd',
-                'ERROR_MESSAGE' => 'Ups. Wygląda na to, że ta strona nie istnieje.'
-            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formularz został odrzucony. Jedno lub więcej pól wymaga wypełnienia.',
                 'NONCE_NOT_VALIDATED' => 'Ups, pojawił się problem. Proszę sprawdź czy wszystkie pola zostały wypełnione i wyślij formularz ponownie.',
@@ -19505,6 +19501,10 @@ Masz na tym koncie włączone **2FA**. Użyj aplikacji od **2FA** i wprowadź ak
                 'NO' => 'Nie',
                 'REFRESH_PREVENTION' => 'Zapobiegaj odświeżaniu',
                 'REFRESH_PREVENTION_HELP' => 'Użyj unikatowego identyfikatora ID , aby upewnić się, że przeglądarka nie przetworzy formularza ponownie.'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Błąd',
+                'ERROR_MESSAGE' => 'Ups. Wygląda na to, że ta strona nie istnieje.'
             ],
             'FRONTMATTER_ERROR_PAGE' => '---
 title: %1$s
@@ -24001,7 +24001,7 @@ Path: `%2$s`
                 6 => 'søndag'
             ]
         ],
-        'checksum' => 'fe6c8423e0ffb0dd1cb15feb7373e592',
-        'timestamp' => 1539121580
+        'checksum' => '7e402ca82a45d1b3784a1be452e73406',
+        'timestamp' => 1540594167
     ]
 ];

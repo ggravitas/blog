@@ -3,6 +3,13 @@ title: 'Flake Out'
 media_order: flake-jeff.jpg
 published: true
 date: '16:54 08-10-2018'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - '#outragefatigue'
+        - 'Senator Flake'
+        - 'Anyone but Trump'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true

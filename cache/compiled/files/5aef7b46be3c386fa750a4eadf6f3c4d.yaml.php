@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://image-captions/image-captions.yaml',
-    'modified' => 1538775354,
+    'modified' => 1539122312,
     'data' => [
         'enabled' => true,
         'built_in_css' => true,

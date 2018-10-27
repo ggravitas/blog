@@ -2,6 +2,14 @@
 title: 'Outrage Fatigue'
 media_order: networkcover.jpg
 date: '15:13 03-10-2018'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - Truth
+        - '#outragefatigue'
+        - Lies
+        - manifesto
 hide_git_sync_repo_link: true
 jscomments:
     active: true

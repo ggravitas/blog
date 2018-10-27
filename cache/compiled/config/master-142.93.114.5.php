@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1540665343,
-    'checksum' => 'e0cdf2573abefaab7f7a6c3ce8b13b3b',
+    'timestamp' => 1540666242,
+    'checksum' => '1cfcee09f5e88a51c26850cec88b0a9f',
     'files' => [
         'user/config' => [
             'media' => [
@@ -25,6 +25,10 @@ return [
                 'file' => 'user/config/plugins/feed.yaml',
                 'modified' => 1539122311
             ],
+            'plugins/ganalytics' => [
+                'file' => 'user/config/plugins/ganalytics.yaml',
+                'modified' => 1540665653
+            ],
             'plugins/git-sync' => [
                 'file' => 'user/config/plugins/git-sync.yaml',
                 'modified' => 1539122311
@@ -43,7 +47,7 @@ return [
             ],
             'plugins/seo' => [
                 'file' => 'user/config/plugins/seo.yaml',
-                'modified' => 1540664842
+                'modified' => 1540666114
             ],
             'plugins/shortcode-core' => [
                 'file' => 'user/config/plugins/shortcode-core.yaml',
@@ -591,7 +595,7 @@ return [
             ],
             'ganalytics' => [
                 'enabled' => true,
-                'trackingId' => '',
+                'trackingId' => 'UA-128211045-1',
                 'position' => 'head',
                 'objectName' => 'ga',
                 'forceSsl' => false,
@@ -702,7 +706,8 @@ return [
                 'twitter_default' => '1',
                 'facebook_default' => '1',
                 'musicalbum' => true,
-                'product' => true
+                'product' => true,
+                'twitterid' => '@gjbrahm'
             ],
             'breadcrumbs' => [
                 'enabled' => true,

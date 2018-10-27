@@ -18,6 +18,25 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
+twitterenable: false
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
 ---
 
 Like me, many of you have tried debating with friends, family, and strangers who surprised you with their unwavering support for Trump. And like me, I'll wager you failed to reason with them. More often than not, I bet your attempts to communicate ended in a greater divide, name-calling, or silence. We have the moral high ground, but that doesn't matter. We have the truth, data, history, and objective fact on our side, but that doesn't matter either. We have converted zero Trump supporters (according to polls) since the election. So when we debate, our indignation only serves ourselves. 

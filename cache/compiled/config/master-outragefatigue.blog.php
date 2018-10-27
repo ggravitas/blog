@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1540665653,
-    'checksum' => 'ec2d39f27d2428d230122ba8c28687b0',
+    'timestamp' => 1540666671,
+    'checksum' => '6a8869e8c09da5362ee0c64f9ed05878',
     'files' => [
         'user/config' => [
             'media' => [
@@ -47,7 +47,7 @@ return [
             ],
             'plugins/seo' => [
                 'file' => 'user/config/plugins/seo.yaml',
-                'modified' => 1540664842
+                'modified' => 1540666114
             ],
             'plugins/shortcode-core' => [
                 'file' => 'user/config/plugins/shortcode-core.yaml',
@@ -161,10 +161,6 @@ return [
                 'file' => 'user/plugins/problems/problems.yaml',
                 'modified' => 1539122312
             ],
-            'plugins/jscomments' => [
-                'file' => 'user/plugins/jscomments/jscomments.yaml',
-                'modified' => 1539122312
-            ],
             'plugins/relatedpages' => [
                 'file' => 'user/plugins/relatedpages/relatedpages.yaml',
                 'modified' => 1539122312
@@ -219,10 +215,6 @@ return [
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/breadcrumbs.yaml',
-                'modified' => 1539122312
-            ],
-            'plugins/social-feed' => [
-                'file' => 'user/plugins/social-feed/social-feed.yaml',
                 'modified' => 1539122312
             ],
             'plugins/page-inject' => [
@@ -445,85 +437,6 @@ return [
                 'enabled' => true,
                 'built_in_css' => true
             ],
-            'jscomments' => [
-                'enabled' => false,
-                'active' => true,
-                'provider' => 'facebook',
-                'providers' => [
-                    'discourse' => [
-                        'host' => ''
-                    ],
-                    'disqus' => [
-                        'shortname' => '',
-                        'show_count' => false,
-                        'language' => ''
-                    ],
-                    'facebook' => [
-                        'app_id' => '437950656695336',
-                        'num_posts' => 5,
-                        'colorscheme' => 'light',
-                        'order_by' => 'social',
-                        'language' => '',
-                        'width' => '100%'
-                    ],
-                    'googleplus' => [
-                        'show_count' => false,
-                        'language' => '',
-                        'width' => '100%'
-                    ],
-                    'intensedebate' => [
-                        'account_number' => ''
-                    ],
-                    'isso' => [
-                        'host' => '',
-                        'builtin_css' => true,
-                        'language' => '',
-                        'reply_to_self' => false,
-                        'require' => [
-                            'author' => true,
-                            'email' => true
-                        ],
-                        'comments' => [
-                            'number' => 10,
-                            'nested_number' => 5,
-                            'reveal' => 5
-                        ],
-                        'avatar' => [
-                            'enabled' => true,
-                            'background' => '',
-                            'foreground' => ''
-                        ],
-                        'vote' => [
-                            'enabled' => true,
-                            'levels' => '-5,5'
-                        ]
-                    ],
-                    'muut' => [
-                        'forum' => '',
-                        'channel' => 'General',
-                        'widget' => false,
-                        'show_online' => false,
-                        'show_title' => false,
-                        'upload' => false,
-                        'share' => true,
-                        'language' => ''
-                    ],
-                    'hypercomments' => [
-                        'widget_id' => NULL,
-                        'social' => [
-                            0 => 'vk',
-                            1 => 'odnoklassniki',
-                            2 => 'yandex',
-                            3 => 'mailru',
-                            4 => 'google',
-                            5 => 'livejournal',
-                            6 => 'facebook',
-                            7 => 'twitter',
-                            8 => 'tumblr'
-                        ]
-                    ]
-                ]
-            ],
             'relatedpages' => [
                 'enabled' => true,
                 'limit' => 5,
@@ -706,7 +619,8 @@ return [
                 'twitter_default' => '1',
                 'facebook_default' => '1',
                 'musicalbum' => true,
-                'product' => true
+                'product' => true,
+                'twitterid' => '@gjbrahm'
             ],
             'breadcrumbs' => [
                 'enabled' => true,
@@ -717,16 +631,6 @@ return [
                 'icon_home' => '',
                 'icon_divider_classes' => 'fa fa-angle-right',
                 'link_trailing' => false
-            ],
-            'social-feed' => [
-                'enabled' => false,
-                'facebook_app_id' => '437950656695336',
-                'facebook_app_secret' => '4547338c531ce61742a84d560f5094d1',
-                'facebook_feeds' => [
-                    0 => [
-                        'username' => 'https://www.facebook.com/jerry.brahm'
-                    ]
-                ]
             ],
             'page-inject' => [
                 'enabled' => true,
@@ -821,6 +725,95 @@ return [
             'taxonomylist' => [
                 'enabled' => true,
                 'route' => '/blog'
+            ],
+            'jscomments' => [
+                'enabled' => false,
+                'active' => true,
+                'provider' => 'facebook',
+                'providers' => [
+                    'discourse' => [
+                        'host' => ''
+                    ],
+                    'disqus' => [
+                        'shortname' => '',
+                        'show_count' => false,
+                        'language' => ''
+                    ],
+                    'facebook' => [
+                        'app_id' => '437950656695336',
+                        'num_posts' => 5,
+                        'colorscheme' => 'light',
+                        'order_by' => 'social',
+                        'language' => '',
+                        'width' => '100%'
+                    ],
+                    'googleplus' => [
+                        'show_count' => false,
+                        'language' => '',
+                        'width' => '100%'
+                    ],
+                    'intensedebate' => [
+                        'account_number' => ''
+                    ],
+                    'isso' => [
+                        'host' => '',
+                        'builtin_css' => true,
+                        'language' => '',
+                        'reply_to_self' => false,
+                        'require' => [
+                            'author' => true,
+                            'email' => true
+                        ],
+                        'comments' => [
+                            'number' => 10,
+                            'nested_number' => 5,
+                            'reveal' => 5
+                        ],
+                        'avatar' => [
+                            'enabled' => true,
+                            'background' => '',
+                            'foreground' => ''
+                        ],
+                        'vote' => [
+                            'enabled' => true,
+                            'levels' => '-5,5'
+                        ]
+                    ],
+                    'muut' => [
+                        'forum' => '',
+                        'channel' => 'General',
+                        'widget' => false,
+                        'show_online' => false,
+                        'show_title' => false,
+                        'upload' => false,
+                        'share' => true,
+                        'language' => ''
+                    ],
+                    'hypercomments' => [
+                        'widget_id' => NULL,
+                        'social' => [
+                            0 => 'vk',
+                            1 => 'odnoklassniki',
+                            2 => 'yandex',
+                            3 => 'mailru',
+                            4 => 'google',
+                            5 => 'livejournal',
+                            6 => 'facebook',
+                            7 => 'twitter',
+                            8 => 'tumblr'
+                        ]
+                    ]
+                ]
+            ],
+            'social-feed' => [
+                'enabled' => false,
+                'facebook_app_id' => '437950656695336',
+                'facebook_app_secret' => '4547338c531ce61742a84d560f5094d1',
+                'facebook_feeds' => [
+                    0 => [
+                        'username' => 'https://www.facebook.com/jerry.brahm'
+                    ]
+                ]
             ],
             'social-meta-tags' => [
                 'enabled' => true,

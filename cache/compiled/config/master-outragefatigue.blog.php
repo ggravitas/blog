@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1540664842,
-    'checksum' => '62097f56d0e085d6cc890bf53475d049',
+    'timestamp' => 1540665653,
+    'checksum' => 'ec2d39f27d2428d230122ba8c28687b0',
     'files' => [
         'user/config' => [
             'media' => [
@@ -25,13 +25,17 @@ return [
                 'file' => 'user/config/plugins/feed.yaml',
                 'modified' => 1539122311
             ],
+            'plugins/ganalytics' => [
+                'file' => 'user/config/plugins/ganalytics.yaml',
+                'modified' => 1540665653
+            ],
             'plugins/git-sync' => [
                 'file' => 'user/config/plugins/git-sync.yaml',
                 'modified' => 1539122311
             ],
             'plugins/jscomments' => [
                 'file' => 'user/config/plugins/jscomments.yaml',
-                'modified' => 1539122311
+                'modified' => 1540665144
             ],
             'plugins/page-inject' => [
                 'file' => 'user/config/plugins/page-inject.yaml',
@@ -55,7 +59,7 @@ return [
             ],
             'plugins/social-feed' => [
                 'file' => 'user/config/plugins/social-feed.yaml',
-                'modified' => 1539122311
+                'modified' => 1540665083
             ],
             'plugins/social-meta-tags' => [
                 'file' => 'user/config/plugins/social-meta-tags.yaml',
@@ -83,7 +87,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1540664763
+                'modified' => 1540665280
             ],
             'themes/antimatter-open-publishing' => [
                 'file' => 'user/config/themes/antimatter-open-publishing.yaml',
@@ -172,6 +176,10 @@ return [
             'plugins/git-sync' => [
                 'file' => 'user/plugins/git-sync/git-sync.yaml',
                 'modified' => 1539122312
+            ],
+            'plugins/ganalytics' => [
+                'file' => 'user/plugins/ganalytics/ganalytics.yaml',
+                'modified' => 1540665280
             ],
             'plugins/image-captions' => [
                 'file' => 'user/plugins/image-captions/image-captions.yaml',
@@ -438,7 +446,7 @@ return [
                 'built_in_css' => true
             ],
             'jscomments' => [
-                'enabled' => true,
+                'enabled' => false,
                 'active' => true,
                 'provider' => 'facebook',
                 'providers' => [
@@ -585,6 +593,24 @@ return [
                 ],
                 'logging' => false
             ],
+            'ganalytics' => [
+                'enabled' => true,
+                'trackingId' => 'UA-128211045-1',
+                'position' => 'head',
+                'objectName' => 'ga',
+                'forceSsl' => false,
+                'async' => false,
+                'anonymizeIp' => false,
+                'blockedIps' => [
+                    
+                ],
+                'cookieConfig' => false,
+                'cookieName' => '_ga',
+                'cookieDomain' => '',
+                'cookieExpires' => 63072000,
+                'debugStatus' => false,
+                'debugTrace' => false
+            ],
             'image-captions' => [
                 'enabled' => true,
                 'built_in_css' => true,
@@ -693,7 +719,7 @@ return [
                 'link_trailing' => false
             ],
             'social-feed' => [
-                'enabled' => true,
+                'enabled' => false,
                 'facebook_app_id' => '437950656695336',
                 'facebook_app_secret' => '4547338c531ce61742a84d560f5094d1',
                 'facebook_feeds' => [

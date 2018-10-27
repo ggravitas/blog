@@ -2,28 +2,40 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/blog/user/config/plugins/jscomments.yaml',
-    'modified' => 1539122311,
+    'modified' => 1540665144,
     'data' => [
-        'enabled' => true,
+        'enabled' => false,
         'active' => true,
         'provider' => 'facebook',
         'providers' => [
+            'discourse' => [
+                'host' => ''
+            ],
             'disqus' => [
-                'show_count' => false
+                'shortname' => '',
+                'show_count' => false,
+                'language' => ''
             ],
             'facebook' => [
                 'app_id' => '437950656695336',
                 'num_posts' => 5,
                 'colorscheme' => 'light',
                 'order_by' => 'social',
+                'language' => '',
                 'width' => '100%'
             ],
             'googleplus' => [
                 'show_count' => false,
+                'language' => '',
                 'width' => '100%'
             ],
+            'intensedebate' => [
+                'account_number' => ''
+            ],
             'isso' => [
+                'host' => '',
                 'builtin_css' => true,
+                'language' => '',
                 'reply_to_self' => false,
                 'require' => [
                     'author' => true,
@@ -35,7 +47,9 @@ return [
                     'reveal' => 5
                 ],
                 'avatar' => [
-                    'enabled' => true
+                    'enabled' => true,
+                    'background' => '',
+                    'foreground' => ''
                 ],
                 'vote' => [
                     'enabled' => true,
@@ -43,14 +57,17 @@ return [
                 ]
             ],
             'muut' => [
+                'forum' => '',
                 'channel' => 'General',
                 'widget' => false,
                 'show_online' => false,
                 'show_title' => false,
                 'upload' => false,
-                'share' => true
+                'share' => true,
+                'language' => ''
             ],
             'hypercomments' => [
+                'widget_id' => NULL,
                 'social' => [
                     0 => 'vk',
                     1 => 'odnoklassniki',

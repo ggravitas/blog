@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1540648179,
-    'checksum' => '96439da6f46d6bf66548afc403ada531',
+    'timestamp' => 1540664842,
+    'checksum' => '62097f56d0e085d6cc890bf53475d049',
     'files' => [
         'user/config' => [
             'media' => [
@@ -40,6 +40,10 @@ return [
             'plugins/relatedpages' => [
                 'file' => 'user/config/plugins/relatedpages.yaml',
                 'modified' => 1539122311
+            ],
+            'plugins/seo' => [
+                'file' => 'user/config/plugins/seo.yaml',
+                'modified' => 1540664842
             ],
             'plugins/shortcode-core' => [
                 'file' => 'user/config/plugins/shortcode-core.yaml',
@@ -79,7 +83,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1540648168
+                'modified' => 1540664763
             ],
             'themes/antimatter-open-publishing' => [
                 'file' => 'user/config/themes/antimatter-open-publishing.yaml',
@@ -135,7 +139,7 @@ return [
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1539122311
+                'modified' => 1540664763
             ],
             'plugins/youtube' => [
                 'file' => 'user/plugins/youtube/youtube.yaml',
@@ -200,6 +204,10 @@ return [
             'plugins/shortcode-ui' => [
                 'file' => 'user/plugins/shortcode-ui/shortcode-ui.yaml',
                 'modified' => 1539122312
+            ],
+            'plugins/seo' => [
+                'file' => 'user/plugins/seo/seo.yaml',
+                'modified' => 1540664763
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/breadcrumbs.yaml',
@@ -659,6 +667,20 @@ return [
                 'theme' => [
                     'tabs' => 'default'
                 ]
+            ],
+            'seo' => [
+                'enabled' => true,
+                'article' => true,
+                'restaurant' => true,
+                'event' => true,
+                'organization' => true,
+                'musicevent' => true,
+                'person' => true,
+                'facebookid' => '437950656695336',
+                'twitter_default' => '1',
+                'facebook_default' => '1',
+                'musicalbum' => true,
+                'product' => true
             ],
             'breadcrumbs' => [
                 'enabled' => true,

@@ -1,13 +1,13 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1540648180,
-    'checksum' => '9a8dd8b7547789d7384ea1449e86341e',
+    'timestamp' => 1540664773,
+    'checksum' => '0ee4664789a5665b903c1e567dad48e6',
     'files' => [
         'user/plugins/admin/blueprints/config' => [
             'media' => [
                 'file' => 'user/plugins/admin/blueprints/config/media.yaml',
-                'modified' => 1539122311
+                'modified' => 1540664763
             ]
         ],
         'system/blueprints/config' => [
@@ -51,7 +51,7 @@ return [
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/blueprints.yaml',
-                'modified' => 1539122311
+                'modified' => 1540664763
             ],
             'plugins/youtube' => [
                 'file' => 'user/plugins/youtube/blueprints.yaml',
@@ -116,6 +116,10 @@ return [
             'plugins/shortcode-ui' => [
                 'file' => 'user/plugins/shortcode-ui/blueprints.yaml',
                 'modified' => 1539122312
+            ],
+            'plugins/seo' => [
+                'file' => 'user/plugins/seo/blueprints.yaml',
+                'modified' => 1540664763
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/blueprints.yaml',
@@ -5462,6 +5466,184 @@ return [
                 'name' => 'plugins.shortcode-ui.theme.tabs',
                 'validation' => 'strict'
             ],
+            'plugins.seo' => [
+                'type' => '_root',
+                'form_field' => false,
+                'form' => [
+                    'validation' => 'strict'
+                ]
+            ],
+            'plugins.seo.enabled' => [
+                'type' => 'toggle',
+                'label' => 'PLUGIN_ADMIN.PLUGIN_STATUS',
+                'highlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.seo.enabled',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.facebookid' => [
+                'type' => 'text',
+                'label' => 'Facebook App ID',
+                'name' => 'plugins.seo.facebookid',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.twitterid' => [
+                'type' => 'text',
+                'label' => 'Twitter ID',
+                'name' => 'plugins.seo.twitterid',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.twitter_default' => [
+                'type' => 'toggle',
+                'label' => 'On page creation, enable twitter metadata?',
+                'default' => 1,
+                'highlight' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'name' => 'plugins.seo.twitter_default',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.facebook_default' => [
+                'type' => 'toggle',
+                'label' => 'On page creation, enable facebook metadata?',
+                'default' => 1,
+                'highlight' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'name' => 'plugins.seo.facebook_default',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.article' => [
+                'type' => 'toggle',
+                'label' => 'Enable Article Microdata',
+                'highlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.seo.article',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.event' => [
+                'type' => 'toggle',
+                'label' => 'Enable Event Microdata',
+                'highlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.seo.event',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.restaurant' => [
+                'type' => 'toggle',
+                'label' => 'Enable Restaurant Microdata',
+                'highlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.seo.restaurant',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.musicevent' => [
+                'type' => 'toggle',
+                'label' => 'Enable Music Event Microdata',
+                'highlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.seo.musicevent',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.person' => [
+                'type' => 'toggle',
+                'label' => 'Enable Person Microdata',
+                'highlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.seo.person',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.organization' => [
+                'type' => 'toggle',
+                'label' => 'Enable Organization Microdata',
+                'highlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.seo.organization',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.musicalbum' => [
+                'type' => 'toggle',
+                'label' => 'Enable Music Album Microdata',
+                'highlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.seo.musicalbum',
+                'validation' => 'strict'
+            ],
+            'plugins.seo.product' => [
+                'type' => 'toggle',
+                'label' => 'Enable Product Microdata',
+                'highlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.seo.product',
+                'validation' => 'strict'
+            ],
             'plugins.breadcrumbs' => [
                 'type' => '_root',
                 'form_field' => false,
@@ -7048,6 +7230,21 @@ return [
                     'theme' => [
                         'tabs' => 'plugins.shortcode-ui.theme.tabs'
                     ]
+                ],
+                'seo' => [
+                    'enabled' => 'plugins.seo.enabled',
+                    'facebookid' => 'plugins.seo.facebookid',
+                    'twitterid' => 'plugins.seo.twitterid',
+                    'twitter_default' => 'plugins.seo.twitter_default',
+                    'facebook_default' => 'plugins.seo.facebook_default',
+                    'article' => 'plugins.seo.article',
+                    'event' => 'plugins.seo.event',
+                    'restaurant' => 'plugins.seo.restaurant',
+                    'musicevent' => 'plugins.seo.musicevent',
+                    'person' => 'plugins.seo.person',
+                    'organization' => 'plugins.seo.organization',
+                    'musicalbum' => 'plugins.seo.musicalbum',
+                    'product' => 'plugins.seo.product'
                 ],
                 'breadcrumbs' => [
                     'enabled' => 'plugins.breadcrumbs.enabled',
